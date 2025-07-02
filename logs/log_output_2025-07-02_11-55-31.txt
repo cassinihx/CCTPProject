@@ -1,0 +1,9 @@
+===== Automation run 2025-07-02_11-55-31 =====
+
+[1/2] Running takePicture.py …
+Traceback (most recent call last):
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\takePicture.py", line 4, in <module>
+    sys.stdout.reconfigure(encoding="utf-8")
+    ^^^
+NameError: name 'sys' is not defined. Did you forget to import 'sys'?
+❌ takePicture.py failed (code 1)

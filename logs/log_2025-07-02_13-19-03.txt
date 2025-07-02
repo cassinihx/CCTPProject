@@ -1,0 +1,132 @@
+==== run 2025-07-02_13-19-03 ====
+[1/2] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2/2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+Cookies accepted!
+Searching for the 'Upload Photos' button...
+'Upload Photos' button clicked!
+Searching for the hidden file input...
+File input found! Uploading image...
+Image uploaded successfully!
+Waiting before checking checkboxes to prevent bot detection...
+Searching for checkboxes...
+Checkbox 1 ticked!
+Checkbox 2 ticked!
+Checkbox 3 ticked!
+Searching for the 'Start Search' button...
+Search started successfully!
+Search Results URL: https://pimeyes.com/en/results/5y7_250702mu9sh1rc1a065jq8da5b4cc?query=ffff7ff8f8100800e1f1f0c0d1f160f0
+[3/3] facecheck_search.py …
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 86
+FACECHECK_PROGRESS 99
+FACECHECK_MATCH 63 https://twitter.com/charlieclem
+FACECHECK_MATCH 61 https://seminolefl.mugshots.zone/hemraj-mohan-mugshot-11-30-2022/
+FACECHECK_MATCH 61 https://uk.news.yahoo.com/carter-director-mike-hodges-died-161441857.html
+FACECHECK_MATCH 60 https://getraenke-news.de/undone-verstaerkt-geschaeftsfuehrung/
+FACECHECK_MATCH 60 https://zingnews.vn/10-diem-giong-nhau-giua-wonder-woman-va-cac-bom-tan-khac-cua-marvel-post753169.html
+FACECHECK_MATCH 60 https://talkingbiznews.com/media-moves/bowie-named-acting-senior-food-editor-at-tesco-magazine/
+FACECHECK_MATCH 60 https://twitter.com/sam_parks1
+FACECHECK_MATCH 60 https://twitter.com/davidvasandani
+FACECHECK_MATCH 60 https://twitter.com/MoultonNate
+FACECHECK_MATCH 59 https://twitter.com/KingTurck
+FACECHECK_MATCH 59 https://twitter.com/drkamalkantsahu
+FACECHECK_MATCH 58 https://thehockeynews.com/nhl/new-york-islanders/latest-news/patrick-roy-tony-deangelo-new-york-islanders-carolina-hurricanes-2024-stanley-cup-playoffs
+FACECHECK_MATCH 58 https://thehockeynews.com/nhl/new-york-islanders/latest-news/tampa-bay-lightning-new-york-islanders-power-play-kyle-palmieri-anders-lee-nikita-kucherov
+FACECHECK_MATCH 58 https://twitter.com/rizwanasghar
+FACECHECK_MATCH 58 https://www.homefacts.com/offender-detail/WA1326034/Michael-Eugene-Cromer.html
+FACECHECK_MATCH 58 https://makassar.antaranews.com/berita/62390/dubes-polandia-siap-buka-konsulat-di-makassar
+FACECHECK_MATCH 58 https://www.mintpressnews.com/tag/barrett-lancaster-brown/
+FACECHECK_MATCH 58 https://twitter.com/kayteedahling
+FACECHECK_MATCH 58 https://www.heraldsun.com.au/news/nsw/power-100-full-list-of-sydneys-most-powerful-people-in-2022-revealed/news-story/f8af8bf11d1207dbaf174a485f861b4e
+FACECHECK_MATCH 58 https://cbs12.com/news/local/deputies-search-for-man-accused-of-sharing-child-porn-images-including-sexual-battery
+FACECHECK_MATCH 58 https://news.engineering.iastate.edu/2011/03/22/computer-engineering-students-receive-ibm-phd-fellowships/
+FACECHECK_MATCH 58 https://njspotlightnews.org/2020/01/op-ed-an-important-step-forward-for-rx-prices/
+FACECHECK_MATCH 58 https://surabaya.tribunnews.com/2020/11/03/arti-mimpi-melihat-banjir-besar-pertanda-baik-ini-makna-mimpi-banjir-lainnya
+FACECHECK_MATCH 58 https://trinitynews.ie/2018/03/mental-health-initiative-is-of-paramount-importance-interview-with-gsu-vice-president-candidate-dr-gogoal-falia/
+FACECHECK_MATCH 58 https://randolphmo.mugshots.zone/miller-christina-nicole-mugshot-05-04-2023/
+FACECHECK_MATCH 58 https://mintpressnews.com/barrett-browns-three-remaining-charges-mean-journalism/200479/
+FACECHECK_MATCH 57 https://instagram.com/emmabaldizzone
+FACECHECK_MATCH 57 https://health.usnews.com/doctors/ronald-dibble-1423267
+FACECHECK_MATCH 56 https://tasnimnews.com/en/news/2016/03/29/1035563/fidel-castro-lashes-out-at-obama-after-cuba-visit
+FACECHECK_MATCH 56 https://tasnimnews.com/en/news/2016/11/26/1250462/former-cuban-leader-fidel-castro-dies-aged-90
+FACECHECK_MATCH 56 https://thehockeynews.com/nhl/new-york-islanders/latest-news/new-york-islanders-philadelphia-flyers-2024-25-metropolitan-division
+FACECHECK_MATCH 56 https://eporner.com/search-photos/twistys/
+FACECHECK_MATCH 56 https://socialnews.xyz/2024/05/21/top-german-diplomat-urges-allies-to-protect-ukraines-skies-from-russia/
+FACECHECK_MATCH 56 https://sanatatesiviata.ro/stiati-ca/777-pornografia-stradala-de-pe-domeniul-public-privat-incalca-flagrant-legea-pentru-prevenirea-si-combaterea-pornografiei-in-scopul-protejarii-demnitatii-persoanei-a-pudorii-si-moralitatii-publice-legea-196-din-2003-legea-audiovizualului-504-din-2002
+FACECHECK_MATCH 56 https://osthessen-news.de/n1245358/firmen-news-helge-kolb-neu-im-gesch%C3%A4ftsf%C3%BChrer-trio.html
+FACECHECK_MATCH 56 https://www.foxnews.com/sports/giants-great-eli-manning-takes-surprising-stance-artificial-turf-aaron-rodgers-injury
+FACECHECK_MATCH 56 https://twitter.com/JordanHeaton19
+FACECHECK_MATCH 56 https://wfxb.com/2020/06/22/mugshots-june-19th-21st-2020/gall-christopher-scott-public-disorderly/
+FACECHECK_MATCH 56 https://twitter.com/louisRleslie
+FACECHECK_MATCH 56 https://arabnews.pk/node/1725866/world
+FACECHECK_MATCH 56 https://uk.news.yahoo.com/two-brothers-jailed-raping-sexually-095521810.html
+FACECHECK_MATCH 56 https://news.de/politik/856123341/annalena-baerbock-macht-greenpeace-chefin-zur-klima-beauftragten-aufstand-gegen-aussenministerin-durch-lobby-personalie/1/
+FACECHECK_MATCH 55 https://www.cbsnews.com/boston/news/whitey-bulger-lawyers-to-present-appeal/
+FACECHECK_MATCH 55 https://cbsnews.com/boston/news/florida-appeals-court-to-rehear-john-connollys-murder-case/
+FACECHECK_MATCH 55 https://ca.news.yahoo.com/man-charged-sexually-battering-kid-220522624.html
+FACECHECK_MATCH 55 https://heraldsun.com.au/news/victoria/gossip-queen-carey-shifts-focus-to-2017-footy-calls/news-story/eb899966fae2a90ac0c8a029a8c5d64a
+FACECHECK_MATCH 55 https://twitter.com/cahorvath
+FACECHECK_MATCH 55 https://twitter.com/Worldliberation
+FACECHECK_MATCH 54 https://aspendailynews.com/opinion/parrott-how-lucky-can-one-man-get/article_2033a694-4d5c-11ee-a700-df475d7c54f9.html
+FACECHECK_MATCH 54 https://aspendailynews.com/opinion/parrott-design-the-beautiful-build-the-impossible/article_46e91fd4-24e6-11ed-a912-2f5ea78fbcb2.html
+FACECHECK_MATCH 54 https://gotporn.com/pornstar/tommy-gunn
+FACECHECK_MATCH 54 https://lobstertube.com/pornstar/tommy-gunn
+FACECHECK_MATCH 54 https://euronews.com/next/2022/03/28/ukraine-crisis-eu-stateaid
+FACECHECK_MATCH 54 https://euronews.com/next/2022/10/27/usa-eu-trade
+FACECHECK_MATCH 54 https://news.pngfacts.com/2016/11/png-prime-minister-peter-oneill-extends.html?m=0
+FACECHECK_MATCH 54 https://socialnews.xyz/2017/07/06/congress-hits-back-at-shah-with-airport-wedding-proposal/
+FACECHECK_MATCH 54 https://galvnews.com/news_ap/sports/katie-taylor-retains-top-spot-as-irelands-most-admired-athlete/article_50da7d7d-0cab-5171-bad4-ce24aea3a96b.html
+FACECHECK_MATCH 54 https://tradewindsnews.com/ship-management/lqm-chief-bunker-derivatives-market-still-a-big-players-game/2-1-813015
+FACECHECK_MATCH 54 https://www.techbusinessnews.com.au/news/stephen-burns-joins-queensland-based-ad-tech-company-cartelux-as-chief-financial-officer/
+FACECHECK_MATCH 54 https://www.news.uct.ac.za/article/-2009-05-13-new-book-illuminates-naturalism-and-philosophys-science-connection
+FACECHECK_MATCH 54 https://twitter.com/eswnyc
+FACECHECK_MATCH 54 https://news.cornellcollege.edu/report/issue/2016-06-summer/
+FACECHECK_MATCH 54 https://twitter.com/jrjohnraeder
+FACECHECK_MATCH 54 https://pornstar.gallery/pornpics/meninpain-annie-cruz-wolf-hudson-czech-girl-domination-hot-sexynude
+FACECHECK_MATCH 54 https://timesnownews.com/entertainment/celebs/hollywood/chris-evans-shirtless-pics-that-are-absolute-thirst-trap-photo-gallery-103845856
+FACECHECK_MATCH 54 https://malaysia.news.yahoo.com/indonesian-envoy-career-diplomat-likely-025027541.html
+FACECHECK_MATCH 54 https://twitter.com/IAmJohnWatts
+FACECHECK_MATCH 54 https://twitter.com/aminoacidhead
+FACECHECK_MATCH 54 https://en.mogaznews.com/World-News/2339705/Reunion-what-reunion-Gavin-and-Stacey-actor-15-who-played-Smithy-and--trends-now.html
+FACECHECK_MATCH 54 https://hotzxgirl.com/girl-next-door-with-huge-tits-porn-photo/static-ca-cdn.eporner.com*photos*285874.jpg.asp
+FACECHECK_MATCH 54 https://jeffersonal.mugshots.zone/calton-catherine-grace-mugshot-08-15-2023/
+FACECHECK_MATCH 54 https://twitter.com/ChristinaSawch1
+FACECHECK_MATCH 54 https://www.facebook.com/griffin.duvall
+FACECHECK_MATCH 54 https://twitter.com/AbdullahAFatta
+FACECHECK_MATCH 54 https://manchestereveningnews.co.uk/news/uk-news/siblings-jailed-manslaughter-after-feeding-20777917
+FACECHECK_MATCH 54 https://twitter.com/SpotonDemocracy
+FACECHECK_MATCH 54 https://offenderradar.com/offender-details/nathan-roger-bodary-of-michigan-1605885
+FACECHECK_MATCH 54 https://instagram.com/kingsmitty123
+FACECHECK_MATCH 54 https://mmanews.com/news/ufc/michael-bisping-describes-why-ufc-gold-is-the-biggest-fight-for-poirier/
+FACECHECK_MATCH 54 https://www.firstcoastnews.com/about-us/team-bios/monica-garcia/270760309
+FACECHECK_MATCH 54 https://heraldsun.com.au/truecrimeaustralia/police-courts-victoria/no-charges-for-wayne-carey-over-crown-white-powder-saga/news-story/1318c38d337faddcaeb0a11279b27533
+FACECHECK_MATCH 54 https://www.jsumsnews.com/jsu-community-college-relations-welcomes-transfer-students/
+FACECHECK_MATCH 54 https://thenews.com.pk/latest/477995-senior-pakistani-journalist-idrees-bakhtiar-passes-away
+FACECHECK_MATCH 53 https://twitter.com/Bevils
+FACECHECK_MATCH 53 https://windownews.co.uk/bfrc-welcomes-lee-dearman/
+FACECHECK_MATCH 53 https://naplesnews.com/picture-gallery/entertainment/arts/2019/02/12/gulfshore-playhouses-in-next-room-vibrator-play/2851684002/
+FACECHECK_MATCH 53 https://pegasonews.info/joomla/index.php/solidarieta/2-sito/99362-ysl-beauty-firma-il-makeup-look-di-annalisa-della-terza-giornata
+FACECHECK_MATCH 53 https://twitter.com/mikedanko
+FACECHECK_MATCH 53 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 53 https://williamsnews.com/news/grand-canyon-news/trial-of-man-accused-of-killing-bullhead-city-girl-delayed-hearing-set-for-april-19/article_3ecdd3ed-e147-520c-bab7-819f2258ea46.html
+FACECHECK_MATCH 53 https://eporner.com/pornstar/paulina-soul/
+FACECHECK_MATCH 53 https://ca.news.yahoo.com/chris-evans-blasts-haters-upset-203311760.html?src=rss
+FACECHECK_MATCH 53 https://manchestereveningnews.co.uk/special-features/acquiesce-addict-recovery-centre-bolton-17548102
+FACECHECK_MATCH 52 https://twitter.com/DozierComposure
+FACECHECK_MATCH 52 https://twitter.com/SheaFontana
+FACECHECK_MATCH 52 https://twitter.com/sausageking_af
+FACECHECK_MATCH 52 https://instagram.com/lolinck
+FACECHECK_MATCH 52 https://twitter.com/JRussellMI
+FACECHECK_MATCH 52 https://twitter.com/ZachBroughton
+FACECHECK_MATCH 52 https://twitter.com/colin_swenson
+FACECHECK_DONE
+==== finished ====

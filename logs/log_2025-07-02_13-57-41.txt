@@ -1,0 +1,121 @@
+==== run 2025-07-02_13-57-41 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+PimEyes disabled in config.
+[2] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 80
+FACECHECK_PROGRESS 97
+FACECHECK_MATCH 48 https://bringmethenews.com/minnesota-news/convicted-child-molester-sentenced-for-failing-to-register-as-sex-offender-in-minnesota
+FACECHECK_MATCH 48 https://bringmethenews.com/minnesota-news/bus-driver-pleads-guilty-to-driving-drunk-with-35-ymca-campers-on-board
+FACECHECK_MATCH 48 https://www.facebook.com/zoe.campbelleby
+FACECHECK_MATCH 46 https://israelnationalnews.com/news/365967
+FACECHECK_MATCH 46 https://twitter.com/jhemann
+FACECHECK_MATCH 46 https://offenderradar.com/offender-details/bobby-s-george-of-hawaii-363156
+FACECHECK_MATCH 46 https://twitter.com/aminoacidhead
+FACECHECK_MATCH 46 https://salineks.mugshots.zone/allen-emma-elyse-mugshot-11-20-2023/
+FACECHECK_MATCH 45 https://eurofestivalnews.com/2024/04/06/rivedi-angelina-mango-barcelona-eurovision-party-2024/
+FACECHECK_MATCH 45 https://eurofestivalnews.com/2022/02/05/sanremo-2022-gianni-morandi-e-jovanotti-vincono-la-serata-cover/
+FACECHECK_MATCH 45 https://eurofestivalnews.com/2022/03/22/amelia-sasha-eurovision/
+FACECHECK_MATCH 45 https://www.angelnews.co.uk/blog/food-drink/winefi-secures-400k-funding-with-strong-investor-demand/
+FACECHECK_MATCH 45 https://www.angelnews.co.uk/blog/food-drink/wine-platform-winefi-partners-with-timeless-investments/
+FACECHECK_MATCH 45 https://comancheok.mugshots.zone/pope-joshua-david-mugshot-04-04-2023/
+FACECHECK_MATCH 45 https://www.homefacts.com/offender-detail/WA1326034/Michael-Eugene-Cromer.html
+FACECHECK_MATCH 45 https://twitter.com/PatrickLKelly
+FACECHECK_MATCH 45 https://dayitalianews.com/morte-mirko-celani-48-anni/
+FACECHECK_MATCH 45 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 45 https://twitter.com/zagoumenov
+FACECHECK_MATCH 45 https://leefl.mugshots.zone/tatlock-linda-j-mugshot-05-01-2024/
+FACECHECK_MATCH 45 https://health.usnews.com/doctors/theron-andrus-3234973
+FACECHECK_MATCH 45 https://www.senzacolonnenews.it/citta/item/lotorino-barese-quaranta-eletto-presidente-della-societa-italiana-di-audiologia.html
+FACECHECK_MATCH 44 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=11%2F02%2F2020+at+05%3A30+pm&type=advanced
+FACECHECK_MATCH 44 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=08%2F11%2F2023+at+06%3A00+pm&type=advanced
+FACECHECK_MATCH 44 https://manchestereveningnews.co.uk/news/tv/coronation-streets-kit-green-star-30671853
+FACECHECK_MATCH 44 https://manchestereveningnews.co.uk/news/greater-manchester-news/meet-girl-mission-make-sure-30411026
+FACECHECK_MATCH 44 https://mulengeranews.com/m7-orders-scandal-riddled-opm-out-of-nam-meeting-preparations/
+FACECHECK_MATCH 44 https://www.channelnews.mu/2024/04/laccusation-provisoire-de-conspiracy-rayee-contre-danesh-ellayah/
+FACECHECK_MATCH 44 https://aninews.in/news/entertainment/hollywood/august-diehl-andrea-riseborough-to-lead-biographical-drama-the-noise-of-time20240514231318
+FACECHECK_MATCH 44 https://twitter.com/fiddleleafib
+FACECHECK_MATCH 44 https://twitter.com/JordiUstrell
+FACECHECK_MATCH 44 https://surabaya.tribunnews.com/2020/11/03/arti-mimpi-melihat-banjir-besar-pertanda-baik-ini-makna-mimpi-banjir-lainnya
+FACECHECK_MATCH 44 https://toronto.citynews.ca/2022/03/17/explainer-could-ukrainian-neutrality-help-end-russia-war/
+FACECHECK_MATCH 44 https://wbko.com/content/news/Former-high-school-fishing-coach-pleads-guilty-to-child-pornography-charges-568074591.html
+FACECHECK_MATCH 44 https://xxxporn.pics/sex/julesjordan-natalia-starr-nebraskacoeds-bikini-yuoxx-arab
+FACECHECK_MATCH 44 https://newrivervalleyjailva.mugshots.zone/nelson-jason-neil-mugshot-07-17-2023/
+FACECHECK_MATCH 44 https://bc.ctvnews.ca/mobile/surrey-massage-therapist-banned-from-treating-female-patients-after-sexual-misconduct-complaint-1.6296434?cache=?contactForm=true
+FACECHECK_MATCH 44 https://twitter.com/gendereviI
+FACECHECK_MATCH 44 https://instagram.com/albyasca90
+FACECHECK_MATCH 44 https://twitter.com/jackbuckby
+FACECHECK_MATCH 44 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 44 https://iowasexoffender.gov/registrant/24678/?stateid=439.default
+FACECHECK_MATCH 44 https://instagram.com/pnw_wanderer87
+FACECHECK_MATCH 43 https://it.euronews.com/cultura/2016/05/16/cannes-album-del-turco-mehmet-can-mertoglu-applaudito-alla-semaine-de-la
+FACECHECK_MATCH 43 https://batiannuts.co.ke/?b=bat252c25502100-charles-david-brown-sex-offender
+FACECHECK_MATCH 43 https://hotzxgirl.com/kell/kelly-mark-satterfield-jr-sex-offender-in-dupo-il-62239-mo87468492.htm
+FACECHECK_MATCH 43 https://windownews.co.uk/bfrc-welcomes-lee-dearman/
+FACECHECK_MATCH 43 https://health.usnews.com/doctors/endocrinologists/georgia/fort-gordon
+FACECHECK_MATCH 43 https://butleroh.mugshots.zone/barham-leonard-gray-mugshot-12-06-2023/
+FACECHECK_MATCH 43 https://twitter.com/Ben_Kemper
+FACECHECK_MATCH 43 https://newhanovernc.mugshots.zone/caulder-christopher-michael-mugshot-10-03-2023/
+FACECHECK_MATCH 43 https://instagram.com/aislingbyrne4
+FACECHECK_MATCH 43 https://tlnews.com.au/tag/bullarto/
+FACECHECK_MATCH 43 https://twitter.com/Robert_Lowrey
+FACECHECK_MATCH 43 https://ictnews.org/opinion/ending-the-hiv-epidemic-in-indian-country
+FACECHECK_MATCH 43 https://mix941kmxj.com/ixp/196/p/9-amarillo-mugshot-celebrity-lookalikes/
+FACECHECK_MATCH 43 https://twitter.com/PaulEremenko
+FACECHECK_MATCH 42 https://thehockeynews.com/nhl/new-york-islanders/latest-news/patrick-roy-tony-deangelo-new-york-islanders-carolina-hurricanes-2024-stanley-cup-playoffs
+FACECHECK_MATCH 42 https://thehockeynews.com/nhl/new-york-islanders/latest-news/tampa-bay-lightning-new-york-islanders-power-play-kyle-palmieri-anders-lee-nikita-kucherov
+FACECHECK_MATCH 42 https://euronews.com/culture/2016/05/16/finding-nero-rhineland-state-museum-looks-to-rehabilitate-emperor
+FACECHECK_MATCH 42 https://tr.euronews.com/kultur/2016/05/16/mehmet-can-mertoglu-nun-diyalogsuz-filmine-cannes-da-ovgu
+FACECHECK_MATCH 42 https://euronews.com/culture/2016/05/17/essaouira-beats-to-rhythm-of-gnaoua-music-festival
+FACECHECK_MATCH 42 https://twitter.com/chralden
+FACECHECK_MATCH 42 https://www.novanews.it/2023/03/13/un-medico-in-famiglia-boom-spuntano-tre-puntate-inedite-sorpresa-incandescente/
+FACECHECK_MATCH 42 https://manchestereveningnews.co.uk/news/tv/coronation-street-expert-confirms-joel-30416675
+FACECHECK_MATCH 42 https://dentontx.mugshots.zone/cavender-clark-cole-mugshot-09-11-2024/
+FACECHECK_MATCH 42 https://instagram.com/justjoshingyou_
+FACECHECK_MATCH 42 https://browardfl.mugshots.zone/conley-stephen-patrick-mugshot-07-02-2022/
+FACECHECK_MATCH 42 https://ondate.com/female-escorts/361782/strawberry
+FACECHECK_MATCH 42 https://twitter.com/RigorAndRhyme
+FACECHECK_MATCH 42 https://charlottefl.mugshots.zone/hipps-dakota-mugshot-07-16-2024/
+FACECHECK_MATCH 42 https://twitter.com/Mr_Dreher
+FACECHECK_MATCH 42 https://thesun.co.uk/sport/horseracing/11217518/phil-mcentee-trainer-newmarket-coronavirus/
+FACECHECK_MATCH 42 https://twitter.com/LaneLowenstein
+FACECHECK_MATCH 42 https://thesun.ie/tv/14028277/coronation-street-itv-spoiler-dee-concern-after-joel-murder/
+FACECHECK_MATCH 42 https://packagingnews.co.uk/design/equator-promotes-simon-thompson-to-global-director-of-photography-16-04-2024
+FACECHECK_MATCH 42 https://suffolknews.co.uk/bury-st-edmunds/news/towns-labour-party-asks-council-not-to-remove-annual-grant-9300339/
+FACECHECK_MATCH 42 https://twitter.com/dockhandelwal
+FACECHECK_MATCH 42 https://timesnownews.com/entertainment-news/hollywood/deadpool-and-wolverine-why-did-marvel-change-pyro-human-torch-fight-from-comics-chris-evans-aaron-stanford-article-112371603
+FACECHECK_MATCH 42 https://manchestereveningnews.co.uk/news/tv/coronation-streets-joel-star-issued-29523033
+FACECHECK_MATCH 42 https://comancheok.mugshots.zone/bigger-mark-anthony-mugshot-08-14-2023/
+FACECHECK_MATCH 42 https://bracknellnews.co.uk/news/18759217.5-award-winning-chefs-working-local-restaurants/
+FACECHECK_MATCH 42 https://instagram.com/charlennr
+FACECHECK_MATCH 42 https://jeffersonal.mugshots.zone/robinson-william-harold-mugshot-11-27-2024/
+FACECHECK_MATCH 42 https://twitter.com/JoeSallustio
+FACECHECK_MATCH 42 https://health.usnews.com/doctors/total-shoulder-replacement/pennsylvania/avonmore?distance=25.0
+FACECHECK_MATCH 42 https://www.foxnews.com/video/6174156796001
+FACECHECK_MATCH 42 https://twitter.com/Mglavelle
+FACECHECK_MATCH 42 https://news.cision.com/se/lansforsakringar
+FACECHECK_MATCH 42 https://uk.news.yahoo.com/cops-hunt-man-links-scotland-134540723.html
+FACECHECK_MATCH 42 https://nwaonline.com/news/2022/apr/21/rogers-man-accused-of-possessing-child-pornography/
+FACECHECK_MATCH 42 https://twitter.com/MooreLab
+FACECHECK_MATCH 42 https://news.artnet.com/art-world/art-industry-news-september-26-2018-1357033
+FACECHECK_MATCH 42 https://muskingumoh.mugshots.zone/jorden-garrett-dylan-mugshot-06-13-2024/
+FACECHECK_MATCH 42 https://twitter.com/timgodfreyPTO
+FACECHECK_MATCH 42 https://northbostonnews.com/stories/662361677-student-body-in-essex-county-universities-comprised-mostly-of-white-students-in-2022-23-school-year
+FACECHECK_MATCH 41 https://twitter.com/Pastor_Greg
+FACECHECK_MATCH 41 https://twitter.com/RyanHindinger
+FACECHECK_MATCH 41 https://abccolumbia.com/2024/10/18/midlands-mugshots-october-17-3/whitten-jamey-earl-5/
+FACECHECK_MATCH 41 https://www.facebook.com/griffin.duvall
+FACECHECK_DONE
+==== finished ====

@@ -1,0 +1,8 @@
+===== Automation run 2025-07-02_11-51-28 =====
+
+[1/2] Running takePicture.py …
+Traceback (most recent call last):
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\takePicture.py", line 1, in <module>
+    import cv2
+ModuleNotFoundError: No module named 'cv2'
+❌ takePicture.py failed (code 1)

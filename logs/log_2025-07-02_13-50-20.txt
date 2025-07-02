@@ -1,0 +1,9 @@
+==== run 2025-07-02_13-50-20 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+PimEyes disabled in config.
+[2] facecheck_search.py …
+FACECHECK_ERROR API_TOKEN_MISSING
+==== finished ====

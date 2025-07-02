@@ -1,0 +1,103 @@
+==== run 2025-07-02_13-24-23 ====
+[1/2] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2/2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+No cookie popup detected. Continuing...
+Searching for the 'Upload Photos' button...
+'Upload Photos' button not found.
+[3/3] facecheck_search.py …
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 85
+FACECHECK_PROGRESS 99
+FACECHECK_MATCH 57 https://health.usnews.com/doctors/ronald-dibble-1423267
+FACECHECK_MATCH 56 https://twitter.com/falconef
+FACECHECK_MATCH 54 https://mulengeranews.com/m7-orders-scandal-riddled-opm-out-of-nam-meeting-preparations/
+FACECHECK_MATCH 54 https://twitter.com/zachsanderson
+FACECHECK_MATCH 54 https://instagram.com/surrealist_kai
+FACECHECK_MATCH 52 https://myxxgirl.com/hot/blair-morgan-lee-madison-county-mugshots-zone.htm
+FACECHECK_MATCH 52 https://jeffersonal.mugshots.zone/bates-farrah-blair-mugshot-11-21-2023/
+FACECHECK_MATCH 52 https://basketnews.com/news-186962-darvin-ham-hints-about-lebron-james-comeback-during-regular-season.html
+FACECHECK_MATCH 52 https://bringmethenews.com/minnesota-news/convicted-child-molester-sentenced-for-failing-to-register-as-sex-offender-in-minnesota
+FACECHECK_MATCH 52 https://bringmethenews.com/minnesota-news/bus-driver-pleads-guilty-to-driving-drunk-with-35-ymca-campers-on-board
+FACECHECK_MATCH 52 https://www.news.uct.ac.za/article/-2009-05-13-new-book-illuminates-naturalism-and-philosophys-science-connection
+FACECHECK_MATCH 52 https://offenderradar.com/offender-details/derrick-kyle-coffman-of-nebraska-1434413
+FACECHECK_MATCH 52 https://twitter.com/jhemann
+FACECHECK_MATCH 52 https://twitter.com/Mr_Dreher
+FACECHECK_MATCH 52 https://twitter.com/Ellezedmusic
+FACECHECK_MATCH 52 https://twitter.com/delphgonnot
+FACECHECK_MATCH 52 https://mix941kmxj.com/ixp/196/p/9-amarillo-mugshot-celebrity-lookalikes/
+FACECHECK_MATCH 52 https://twitter.com/NoahWWall
+FACECHECK_MATCH 51 https://batiannuts.co.ke/?b=bat252c25502100-charles-david-brown-sex-offender
+FACECHECK_MATCH 51 https://hotzxgirl.com/kell/kelly-mark-satterfield-jr-sex-offender-in-dupo-il-62239-mo87468492.htm
+FACECHECK_MATCH 51 https://basketnews.com/stream/part.html?from=1679295596&page_no=2&priority=23&pinned=0
+FACECHECK_MATCH 51 https://twitter.com/jnthnhnhn
+FACECHECK_MATCH 51 https://tuscaloosa.mugshots.zone/marcum-mugshot-12-19-2023/
+FACECHECK_MATCH 51 https://twitter.com/botello
+FACECHECK_MATCH 51 https://instagram.com/niick_gant
+FACECHECK_MATCH 51 https://cyprusshippingnews.com/2024/07/12/eni-drafts-abl-for-congo-floating-lng-transportation-and-installation-verification/
+FACECHECK_MATCH 51 https://www.senzacolonnenews.it/citta/item/lotorino-barese-quaranta-eletto-presidente-della-societa-italiana-di-audiologia.html
+FACECHECK_MATCH 51 https://sg.news.yahoo.com/joe-egan-stealers-wheel-musician-124715480.html
+FACECHECK_MATCH 51 https://euronews.com/video/2019/05/14/a-lack-of-eu-policies-causes-populism-verhofstadt
+FACECHECK_MATCH 50 https://petoskeynews.com/story/news/education/2022/08/09/petoskey-schools-hires-new-principals-teachers-ahead-school-year/10264034002/
+FACECHECK_MATCH 50 https://twitter.com/Ben_Kemper
+FACECHECK_MATCH 50 https://www.perishablenews.com/retailfoodservice/golden-state-foods-appoints-justin-vannoy-as-corporate-vice-president-and-president-liquid-products-north-america/
+FACECHECK_MATCH 50 https://ictnews.org/opinion/ending-the-hiv-epidemic-in-indian-country
+FACECHECK_MATCH 49 https://manchestereveningnews.co.uk/news/tv/coronation-streets-kit-green-star-30671853
+FACECHECK_MATCH 49 https://twitter.com/stewartyler
+FACECHECK_MATCH 49 https://www.techbusinessnews.com.au/news/stephen-burns-joins-queensland-based-ad-tech-company-cartelux-as-chief-financial-officer/
+FACECHECK_MATCH 49 https://www.channelnews.mu/2024/04/laccusation-provisoire-de-conspiracy-rayee-contre-danesh-ellayah/
+FACECHECK_MATCH 49 https://www.clnews.com.br/2024/05/ruback-lanca-novo-ep-reality-com-referencias-a-ficcao-cientifica.html
+FACECHECK_MATCH 49 https://citizen.co.za/potchefstroom-herald/news/2023/11/30/victims-of-chicken-farm-scam-cry-fowl/
+FACECHECK_MATCH 49 https://twitter.com/RyanHindinger
+FACECHECK_MATCH 49 https://twitter.com/louisRleslie
+FACECHECK_MATCH 49 https://twitter.com/AlexPotcovaru
+FACECHECK_MATCH 49 https://packagingnews.co.uk/design/equator-promotes-simon-thompson-to-global-director-of-photography-16-04-2024
+FACECHECK_MATCH 49 https://malaysia.news.yahoo.com/chris-evans-explains-why-refuses-125357834.html
+FACECHECK_MATCH 49 https://twitter.com/jackbuckby
+FACECHECK_MATCH 49 https://true-news.it/politics/maurizio-del-conte-afol-metropolitana-numeri
+FACECHECK_MATCH 49 https://twitter.com/gpmum
+FACECHECK_MATCH 48 https://health.usnews.com/doctors/substance-abuse/new-york/hewlett-harbor
+FACECHECK_MATCH 48 https://health.usnews.com/doctors/gastrointestinal-bleeding/new-jersey/lincroft?distance=25.0
+FACECHECK_MATCH 48 https://health.usnews.com/doctors/internists/new-jersey/rumson
+FACECHECK_MATCH 48 https://thehockeynews.com/nhl/new-york-islanders/latest-news/patrick-roy-tony-deangelo-new-york-islanders-carolina-hurricanes-2024-stanley-cup-playoffs
+FACECHECK_MATCH 48 https://thehockeynews.com/nhl/new-york-islanders/latest-news/tampa-bay-lightning-new-york-islanders-power-play-kyle-palmieri-anders-lee-nikita-kucherov
+FACECHECK_MATCH 48 https://euronews.com/my-europe/2017/01/09/populist-grillo-dumps-farage-eyes-marriage-of-convenience-with-federalist
+FACECHECK_MATCH 48 https://tr.euronews.com/my-europe/2017/01/06/verhofstadt-ap-baskanligi-icin-yarisacak
+FACECHECK_MATCH 48 https://manchestereveningnews.co.uk/news/greater-manchester-news/meet-girl-mission-make-sure-30411026
+FACECHECK_MATCH 48 https://twitter.com/zackuhh
+FACECHECK_MATCH 48 https://israelnationalnews.com/news/365967
+FACECHECK_MATCH 48 https://www.heraldsun.com.au/news/tasmania/end-of-an-era-tasmanias-police-commissioner-wraps-up-after-42-years-in-the-force/news-story/a81fd75c62f5a36dc56f54788f27fe8c
+FACECHECK_MATCH 48 https://nz.news.yahoo.com/jeffrey-dean-morgan-hilarie-burton-183745944.html
+FACECHECK_MATCH 48 https://twitter.com/elektrophunc
+FACECHECK_MATCH 48 https://twitter.com/bradleymdavis
+FACECHECK_MATCH 48 https://oglioponews.it/2016/12/30/giuseppe-guarino-su-112-emergencies-per-limpegno-a-favore-dei-terremotati/
+FACECHECK_MATCH 48 https://health.usnews.com/doctors/vladimir-chachanidze-409111
+FACECHECK_MATCH 48 https://fr.news.yahoo.com/commence-attend-l%C3%A9pisode-1027-vendredi-170000451.html
+FACECHECK_MATCH 48 https://instagram.com/carhantt
+FACECHECK_MATCH 48 https://health.usnews.com/doctors/frank-buttacavoli-924223
+FACECHECK_MATCH 48 https://instantcheckmate.com/criminal-records/texas/groesbeck/sex-offenders/
+FACECHECK_MATCH 48 https://breakingnews.ie/world/second-man-convicted-in-michigan-governor-kidnap-plot-jailed-for-four-years-1373957.html
+FACECHECK_MATCH 48 https://twitter.com/briany1234
+FACECHECK_MATCH 48 https://iporntv.net/download/30166485/hardcore-sex-in-office-with-huge-boobs-girl-phoenix-marie-vid-25
+FACECHECK_MATCH 48 https://uk.news.yahoo.com/jealous-knifeman-crept-exs-bedroom-141040937.html
+FACECHECK_MATCH 48 https://dldnews.com/speakers/tom-mason/
+FACECHECK_MATCH 48 https://aninews.in/news/entertainment/hollywood/heres-why-chris-evans-is-still-single20190327213822
+FACECHECK_MATCH 48 https://twitter.com/aminoacidhead
+FACECHECK_MATCH 48 https://www.mintpressnews.com/tag/barrett-lancaster-brown/
+FACECHECK_MATCH 48 https://woodfordil.mugshots.zone/goembel-nathan-alexander-mugshot-03-05-2024/
+FACECHECK_MATCH 48 https://palmbeachfl.mugshots.zone/collins-jack-august-mugshot-09-24-2021/
+FACECHECK_MATCH 48 https://www.facebook.com/jack.davey.1654
+FACECHECK_MATCH 48 https://inews.co.uk/news/gps-warn-crowdstrike-glitch-impact-services-next-week-3181519
+FACECHECK_MATCH 48 https://collintx.mugshots.zone/penley-dennis-ray-mugshot-10-09-2023/
+FACECHECK_MATCH 48 https://varesenews.it/2015/06/riconferma-per-pellicini-che-a-luino-stravince/376504/

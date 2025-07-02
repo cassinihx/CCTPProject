@@ -1,0 +1,16 @@
+===== Automation run 2025-07-02_11-52-10 =====
+
+[1/2] Running takePicture.py …
+Traceback (most recent call last):
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\takePicture.py", line 82, in <module>
+    webcam_index = select_webcam()
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\takePicture.py", line 29, in select_webcam
+    cams = list_available_webcams()
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\takePicture.py", line 11, in list_available_webcams
+    print("\n\U0001f50d Scanning for available webcams...")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Stephen\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f50d' in position 2: character maps to <undefined>
+❌ takePicture.py failed (code 1)

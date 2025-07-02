@@ -1,0 +1,92 @@
+===== Automation run 2025-07-02_11-59-13 =====
+
+[1/2] Running takePicture.py …
+I2025-07-02 11:59:16.001437 (20968) [INFO] [VCAMDS] python.exe
+E2025-07-02 11:59:16.001437 (20968)  [ERR] [VCAMDS] Failed to open NBX hive
+I2025-07-02 11:59:16.002441 (20968) [INFO] [VCAMDS] Creating WndMsg Listener Window
+I2025-07-02 11:59:16.004446 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Performing initializing sequence
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Entered Shared Memory Consumer Initialize
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Video data consumption app tracker current process id: 2800
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] NvMxnCltShmConsumer Init kSuccess
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Video data consumption app tracker updating num DLL loaded: 1
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps DLL loaded succeeded
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Initializing streaming output
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Querying stream output successful. Params: 1920x1080@30/1
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.005450 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.453555 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:59:16.454558 (20968) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:59:16.455564 (29028) [INFO] [VCAMDS] On Thread Create
+I2025-07-02 11:59:16.455564 (29028) [INFO] [VCAMDS] Video data consumption app tracker updating num apps streaming active: 1
+I2025-07-02 11:59:16.455564 (29028) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps streaming active succeeded
+I2025-07-02 11:59:16.455564 (29028) [INFO] [VCAMDS] Fill buffer started
+I2025-07-02 11:59:16.455564 (29028) [INFO] [VCAMDS] Initializing image blit data
+I2025-07-02 11:59:16.459084 (29028) [INFO] [VCAMDS] jpeg exif orientation property not found
+I2025-07-02 11:59:16.459084 (29028) [INFO] [VCAMDS] image size acquired successfully. src: 1920x1080
+I2025-07-02 11:59:16.459084 (29028) [INFO] [VCAMDS] image scaler initialized successfully. dst: 1920x1080
+I2025-07-02 11:59:16.459084 (29028) [INFO] [VCAMDS] Flip/Rotation Options: 16
+I2025-07-02 11:59:16.459084 (29028) [INFO] [VCAMDS] flip rotator initialized successfully
+I2025-07-02 11:59:16.486567 (29028) [INFO] [VCAMDS] Successfully copied image pixels
+I2025-07-02 11:59:16.486567 (29028) [INFO] [VCAMDS] FB delta time: 0 | Final time: 33333
+I2025-07-02 11:59:16.520640 (29028) [INFO] [VCAMDS] Verify core stream readiness before the first frame (sh)
+I2025-07-02 11:59:16.520640 (29028) [INFO] [VCAMDS] CopyFromSharedSurface called
+I2025-07-02 11:59:16.520640 (29028) [INFO] [VCAMDS] All good, copying!
+I2025-07-02 11:59:16.520640 (29028) [INFO] [VCAMDS] Video Data about to be consumed
+I2025-07-02 11:59:17.487740 (29028) [INFO] [VCAMDS] On Thread Destroy
+I2025-07-02 11:59:17.487740 (29028) [INFO] [VCAMDS] Video data consumption app tracker updating num apps streaming active: 0
+I2025-07-02 11:59:17.487740 (29028) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps streaming active succeeded
+I2025-07-02 11:59:17.488758 (20968) [INFO] [VCAMDS] Destroying parent object
+I2025-07-02 11:59:17.488758 (20968) [INFO] [VCAMDS] Destroying WndMsg Listener Window
+I2025-07-02 11:59:17.489959 (20968) [INFO] [VCAMDS] Destroyed window
+I2025-07-02 11:59:17.489959 (20968) [INFO] [VCAMDS] Unregistered window class
+I2025-07-02 11:59:17.489959 (20968) [INFO] [VCAMDS] Video data consumption app tracker updating num DLL loaded: 0
+I2025-07-02 11:59:17.768054 (20968) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps DLL loaded succeeded
+[ WARN:0@3.710] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.715] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.719] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.724] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.728] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.733] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.740] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+Scanning for available webcams...
+Camera detected at index 0
+Camera detected at index 1
+Camera detected at index 2
+Available Webcams:
+[0] Camera Index: 0
+[1] Camera Index: 1
+[2] Camera Index: 2
+Select a webcam index (number) and press Enter: ❌ takePicture.py failed (code 3221225786)

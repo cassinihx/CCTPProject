@@ -1,0 +1,121 @@
+==== run 2025-07-02_13-15-38 ====
+[1/2] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2/2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+No cookie popup detected. Continuing...
+Searching for the 'Upload Photos' button...
+'Upload Photos' button not found.
+[3/3] facecheck_search.py …
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 87
+FACECHECK_MATCH 49 https://twitter.com/zagoumenov
+FACECHECK_MATCH 48 https://twitter.com/MooreLab
+FACECHECK_MATCH 46 https://bringmethenews.com/minnesota-news/convicted-child-molester-sentenced-for-failing-to-register-as-sex-offender-in-minnesota
+FACECHECK_MATCH 46 https://bringmethenews.com/minnesota-news/bus-driver-pleads-guilty-to-driving-drunk-with-35-ymca-campers-on-board
+FACECHECK_MATCH 46 https://instagram.com/leolsu85
+FACECHECK_MATCH 46 https://idnes.cz/xman/styl/ruda-havlik-sentimentalni-pornograf-a-kontroverzni-bloger-idnes-cz.A090213_200942_xman-novinky_fro
+FACECHECK_MATCH 46 https://instagram.com/niick_gant
+FACECHECK_MATCH 46 https://bracknellnews.co.uk/news/18759217.5-award-winning-chefs-working-local-restaurants/
+FACECHECK_MATCH 46 https://salineks.mugshots.zone/allen-emma-elyse-mugshot-11-20-2023/
+FACECHECK_MATCH 46 https://twitter.com/gpmum
+FACECHECK_MATCH 45 https://israelnationalnews.com/news/365967
+FACECHECK_MATCH 45 https://twitter.com/timhatton
+FACECHECK_MATCH 45 https://news.com.au/national/nsw-act/courts-law/cringing-jurors-judge-called-barking-dog-parrot-master-propagandist-inside-wild-court-antics-of-sovereign-citizen-child-kidnapper/news-story/33199d1128f90fcfbb0ea93879f27f63
+FACECHECK_MATCH 45 https://news.cision.com/se/tankesmedjan-tiden/r/ny-rapport-om-samverkan-mellan-lo-och-socialdemokraterna,c9217799
+FACECHECK_MATCH 45 https://twitter.com/Robert_Lowrey
+FACECHECK_MATCH 45 https://www.inyourarea.co.uk/news/metropolitan-police-fraud-scam-on-the-rise-across-berkshire/
+FACECHECK_MATCH 44 https://basketnews.com/news-186962-darvin-ham-hints-about-lebron-james-comeback-during-regular-season.html
+FACECHECK_MATCH 44 https://vtcnews.vn/hlv-chau-au-o-tuyen-viet-nam-nguoi-len-dinh-dong-nam-a-ke-mat-viec-sau-2-thang-ar862589.html
+FACECHECK_MATCH 44 https://vtcnews.vn/sai-lam-cua-hlv-troussier-chien-luoc-tre-hoa-cuc-doan-lang-quen-quang-hai-ar860556.html
+FACECHECK_MATCH 44 https://vtcnews.vn/hlv-troussier-dang-tam-thu-nhan-trach-nhiem-noi-loi-xin-loi-cdv-viet-nam-ar862976.html
+FACECHECK_MATCH 44 https://eurofestivalnews.com/2024/04/06/rivedi-angelina-mango-barcelona-eurovision-party-2024/
+FACECHECK_MATCH 44 https://eurofestivalnews.com/2022/02/05/sanremo-2022-gianni-morandi-e-jovanotti-vincono-la-serata-cover/
+FACECHECK_MATCH 44 https://eurofestivalnews.com/2022/03/22/amelia-sasha-eurovision/
+FACECHECK_MATCH 44 https://calhounal.mugshots.zone/proctor-jacob-allan-mugshot-05-26-2024/
+FACECHECK_MATCH 44 https://twitter.com/Mapolino
+FACECHECK_MATCH 44 https://timdenning.substack.com/p/the-biggest-scams-in-life-no-one
+FACECHECK_MATCH 44 https://twitter.com/CarsonPickron
+FACECHECK_MATCH 44 https://pittnc.mugshots.zone/whitehurst-bobby-ray-mugshot-10-05-2023/
+FACECHECK_MATCH 44 https://twitter.com/BobBraunsLedger
+FACECHECK_MATCH 44 https://twitter.com/Mr_Dreher
+FACECHECK_MATCH 44 https://hubnews.eu/france/people/kristofer-noubliez-pas-les-paroles-en-couple-apres-avoir-drague-une-spectatrice-il-donne-des-nouvelles/
+FACECHECK_MATCH 44 https://twitter.com/kaitlyn6277
+FACECHECK_MATCH 44 https://health.usnews.com/doctors/ronald-dibble-1423267
+FACECHECK_MATCH 44 https://es.bitcoinethereumnews.com/tech/cardano-founder-explains-his-position-on-ledgers-controversial-upgrade/
+FACECHECK_MATCH 44 https://health.usnews.com/doctors/theron-andrus-3234973
+FACECHECK_MATCH 44 https://twitter.com/simonstreet101
+FACECHECK_MATCH 44 https://news.stv.tv/politics/charles-kennedys-family-extremely-pleased-at-lib-dem-win-new-mp-says
+FACECHECK_MATCH 44 https://twitter.com/CristoDulom
+FACECHECK_MATCH 44 https://instagram.com/pnw_wanderer87
+FACECHECK_MATCH 44 https://fox13news.com/news/fort-myers-man-used-sarasota-residents-identity-to-apply-for-a-car-loan-police-say
+FACECHECK_MATCH 44 https://kpcnews.com/sports/latest/heraldrepublican/
+FACECHECK_MATCH 43 https://www.channelnews.mu/2024/04/laccusation-provisoire-de-conspiracy-rayee-contre-danesh-ellayah/
+FACECHECK_MATCH 43 https://aninews.in/news/entertainment/hollywood/heres-why-chris-evans-is-still-single20190327213822
+FACECHECK_MATCH 43 https://instagram.com/zelrolfox
+FACECHECK_MATCH 43 https://brand-news.it/player/agenzie/louder-italia-annuncia-due-nomine-chiave/
+FACECHECK_MATCH 43 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 43 https://twitter.com/DarinBMiller
+FACECHECK_MATCH 43 https://ictnews.org/opinion/ending-the-hiv-epidemic-in-indian-country
+FACECHECK_MATCH 43 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 42 https://apparelnews.net/news/2024/jun/27/identifying-denims-most-important-challenges/
+FACECHECK_MATCH 42 https://apparelnews.net/news/2024/jun/27/identifying-denims-most-important-challenges/?print
+FACECHECK_MATCH 42 https://manchestereveningnews.co.uk/news/tv/coronation-streets-kit-green-star-30671853
+FACECHECK_MATCH 42 https://manchestereveningnews.co.uk/news/greater-manchester-news/meet-girl-mission-make-sure-30411026
+FACECHECK_MATCH 42 https://health.usnews.com/doctors/head-wound/idaho/marsing
+FACECHECK_MATCH 42 https://health.usnews.com/nurse-practitioners/david-sjostrand-2629934
+FACECHECK_MATCH 42 https://basketnews.com/stream/part.html?from=1679295596&page_no=2&priority=23&pinned=0
+FACECHECK_MATCH 42 https://twitter.com/cldeboy
+FACECHECK_MATCH 42 https://whiznews.com/tag/sheriff-jeffrey-paden/
+FACECHECK_MATCH 42 https://foxnews.com/us/man-allegedly-asked-rapiest-frat-nc-state-before-waving-gun-warrant
+FACECHECK_MATCH 42 https://subynews.blogspot.com/2012_12_08_archive.html
+FACECHECK_MATCH 42 https://browardfl.mugshots.zone/maestas-anthony-christopher-mugshot-04-07-2024/
+FACECHECK_MATCH 42 https://instagram.com/gracie_gates_
+FACECHECK_MATCH 42 https://www.instagram.com/prnews.io/p/DDuDJu0sujO/
+FACECHECK_MATCH 42 https://manateefl.mugshots.zone/acord-brent-m-mugshot-02-21-2023/
+FACECHECK_MATCH 42 https://nz.news.yahoo.com/jeffrey-dean-morgan-hilarie-burton-183745944.html
+FACECHECK_MATCH 42 https://thenationalnews.com/lifestyle/food/exclusive-what-chef-sean-connolly-plans-to-bring-to-dubai-opera-s-first-restaurant-1.613580
+FACECHECK_MATCH 42 https://malaysia.news.yahoo.com/chris-evans-play-johnny-storm-142402524.html
+FACECHECK_MATCH 42 https://instagram.com/vikkdimitrov
+FACECHECK_MATCH 42 https://uk.news.yahoo.com/nicky-campbell-comments-charlie-brooker-021105224.html
+FACECHECK_MATCH 42 https://twitter.com/bradofurey
+FACECHECK_MATCH 42 https://offenderradar.com/offender-details/alexander-p-delorenzo-of-west-virginia-1159176
+FACECHECK_MATCH 42 https://www.facebook.com/profile.php?id=100008547798024
+FACECHECK_MATCH 42 https://news.com.au/travel/travel-advice/australian-woman-sophia-martini-dies-in-scooter-crash-in-bali/news-story/6322eb1fc55ce8e739c7bb74fe70f55c
+FACECHECK_MATCH 42 https://twitter.com/HallCattleCo33
+FACECHECK_MATCH 42 https://offenderradar.com/offender/state-texas-county-harris-city-spring-zip-77373-street-25527-wingfield-ln
+FACECHECK_MATCH 42 https://twitter.com/CamKerkau
+FACECHECK_MATCH 42 https://hamiltonin.mugshots.zone/woolard-jeramiah-michael-mugshot-12-03-2023/
+FACECHECK_MATCH 42 https://instagram.com/surrealist_kai
+FACECHECK_MATCH 42 https://heraldcourier.com/news/local/tazewell-county-music-teacher-arrested-on-child-porn-charges/article_ffeceaa8-7dc3-5f7d-9818-827de4e65932.html
+FACECHECK_MATCH 42 https://news.cision.com/se/goteborgs-universitet?k=l%C3%A4rande
+FACECHECK_MATCH 42 https://twitter.com/RyanHindinger
+FACECHECK_MATCH 42 https://news.sky.com/story/nazanin-zaghari-ratcliffe-husband-richard-ends-three-week-hunger-strike-as-his-daughter-needs-two-parents-12467700
+FACECHECK_MATCH 42 https://twitter.com/scottmathson
+FACECHECK_MATCH 42 https://palmbeachfl.mugshots.zone/collins-jack-august-mugshot-09-24-2021/
+FACECHECK_MATCH 42 https://hotzxgirl.com/girl-next-door-with-huge-tits-porn-photo/static-ca-cdn.eporner.com*photos*285874.jpg.asp
+FACECHECK_MATCH 42 https://dentontx.mugshots.zone/parker-jack-harrison-mugshot-08-13-2022/
+FACECHECK_MATCH 42 https://timesnownews.com/entertainment-news/hollywood/deadpool-and-wolverine-why-did-marvel-change-pyro-human-torch-fight-from-comics-chris-evans-aaron-stanford-article-112371603
+FACECHECK_MATCH 42 https://www.enidnews.com/rebecca-sonkiss/image_2506486c-8e60-11ee-93b7-f7d69cd2dfad.html
+FACECHECK_MATCH 42 https://footwearnews.com/gallery/industry-players-on-kruegers-success/feed/
+FACECHECK_MATCH 42 https://instagram.com/charlennr
+FACECHECK_MATCH 42 https://www.facebook.com/griffin.duvall
+FACECHECK_MATCH 42 https://thenews.com.pk/latest/1109158-chris-evans-to-make-first-public-appearance-since-marrying-alba-baptista
+FACECHECK_MATCH 42 https://twitter.com/JamesLamming
+FACECHECK_MATCH 42 https://leefl.mugshots.zone/tatlock-linda-j-mugshot-05-01-2024/
+FACECHECK_MATCH 42 https://instagram.com/gsersemov
+FACECHECK_MATCH 42 https://fauquierva.mugshots.zone/phillips-matthew-ryan-mugshot-07-31-2024/
+FACECHECK_MATCH 42 https://instagram.com/__prennyz
+FACECHECK_MATCH 42 https://news.unchealthcare.org/2023/01/scientists-document-two-separate-reservoirs-of-latent-hiv-in-patients/
+FACECHECK_MATCH 42 https://pminews.it/mongelli-take-off-rivoluzioniamo-il-mondo-delloutlet-grazie-a-quattro-pilastri-ora-puntiamo-al-nord-italia/
+FACECHECK_MATCH 42 https://uk.news.yahoo.com/larry-lamb-delivers-gavin-stacey-131734986.html
+FACECHECK_DONE
+==== finished ====

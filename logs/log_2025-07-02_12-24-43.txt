@@ -1,0 +1,67 @@
+==== run 2025-07-02_12-24-43 ====
+[1/2] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2/2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Traceback (most recent call last):
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\main.py", line 40, in upload
+    driver.get(url)
+    ~~~~~~~~~~^^^^^
+  File "C:\Users\Stephen\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 479, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Stephen\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Stephen\AppData\Local\Programs\Python\Python313\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: unknown error: cannot determine loading status
+from target frame detached
+  (Session info: chrome=137.0.7151.122)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff635dacda5+78885]
+	GetHandleVerifier [0x0x7ff635dace00+78976]
+	(No symbol) [0x0x7ff635b699fc]
+	(No symbol) [0x0x7ff635b56cfb]
+	(No symbol) [0x0x7ff635b5492f]
+	(No symbol) [0x0x7ff635b5538f]
+	(No symbol) [0x0x7ff635b64595]
+	(No symbol) [0x0x7ff635b7a3e1]
+	(No symbol) [0x0x7ff635b8153a]
+	(No symbol) [0x0x7ff635b55b2d]
+	(No symbol) [0x0x7ff635b79bd1]
+	(No symbol) [0x0x7ff635c11568]
+	(No symbol) [0x0x7ff635be8963]
+	(No symbol) [0x0x7ff635bb16b1]
+	(No symbol) [0x0x7ff635bb2443]
+	GetHandleVerifier [0x0x7ff636084eed+3061101]
+	GetHandleVerifier [0x0x7ff63607f33d+3037629]
+	GetHandleVerifier [0x0x7ff63609e592+3165202]
+	GetHandleVerifier [0x0x7ff635dc730e+186766]
+	GetHandleVerifier [0x0x7ff635dceb3f+217535]
+	GetHandleVerifier [0x0x7ff635db59b4+114740]
+	GetHandleVerifier [0x0x7ff635db5b69+115177]
+	GetHandleVerifier [0x0x7ff635d9c368+10728]
+	BaseThreadInitThunk [0x0x7ff9d196e8d7+23]
+	RtlUserThreadStart [0x0x7ff9d28fc34c+44]
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\main.py", line 166, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\main.py", line 162, in main
+    upload(URL, image_path)
+    ~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\main.py", line 145, in upload
+    print(f"\u274c An error occurred: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Stephen\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u274c' in position 0: character maps to <undefined>
+==== finished ====

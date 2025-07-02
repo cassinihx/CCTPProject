@@ -1,0 +1,98 @@
+===== Automation run 2025-07-02_11-53-42 =====
+
+[1/2] Running takePicture.py …
+I2025-07-02 11:53:45.205613 (24532) [INFO] [VCAMDS] python.exe
+E2025-07-02 11:53:45.206622 (24532)  [ERR] [VCAMDS] Failed to open NBX hive
+I2025-07-02 11:53:45.208326 (24532) [INFO] [VCAMDS] Creating WndMsg Listener Window
+I2025-07-02 11:53:45.210333 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.210333 (24532) [INFO] [VCAMDS] Performing initializing sequence
+I2025-07-02 11:53:45.210333 (24532) [INFO] [VCAMDS] Entered Shared Memory Consumer Initialize
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Video data consumption app tracker current process id: 15328
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] NvMxnCltShmConsumer Init kSuccess
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Video data consumption app tracker updating num DLL loaded: 1
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps DLL loaded succeeded
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Initializing streaming output
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Querying stream output successful. Params: 1920x1080@30/1
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.225991 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.686584 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Requested to perform initializing sequence
+I2025-07-02 11:53:45.688087 (24532) [INFO] [VCAMDS] Already initialized
+I2025-07-02 11:53:45.688087 (30628) [INFO] [VCAMDS] On Thread Create
+I2025-07-02 11:53:45.688087 (30628) [INFO] [VCAMDS] Video data consumption app tracker updating num apps streaming active: 1
+I2025-07-02 11:53:45.688087 (30628) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps streaming active succeeded
+I2025-07-02 11:53:45.688087 (30628) [INFO] [VCAMDS] Fill buffer started
+I2025-07-02 11:53:45.689101 (30628) [INFO] [VCAMDS] Initializing image blit data
+I2025-07-02 11:53:45.724115 (30628) [INFO] [VCAMDS] jpeg exif orientation property not found
+I2025-07-02 11:53:45.724115 (30628) [INFO] [VCAMDS] image size acquired successfully. src: 1920x1080
+I2025-07-02 11:53:45.725119 (30628) [INFO] [VCAMDS] image scaler initialized successfully. dst: 1920x1080
+I2025-07-02 11:53:45.725119 (30628) [INFO] [VCAMDS] Flip/Rotation Options: 16
+I2025-07-02 11:53:45.725119 (30628) [INFO] [VCAMDS] flip rotator initialized successfully
+I2025-07-02 11:53:45.757875 (30628) [INFO] [VCAMDS] Successfully copied image pixels
+I2025-07-02 11:53:45.757875 (30628) [INFO] [VCAMDS] FB delta time: 0 | Final time: 33333
+I2025-07-02 11:53:45.792770 (30628) [INFO] [VCAMDS] Verify core stream readiness before the first frame (sh)
+I2025-07-02 11:53:45.792770 (30628) [INFO] [VCAMDS] CopyFromSharedSurface called
+I2025-07-02 11:53:45.792770 (30628) [INFO] [VCAMDS] All good, copying!
+I2025-07-02 11:53:45.792770 (30628) [INFO] [VCAMDS] Video Data about to be consumed
+I2025-07-02 11:53:46.692348 (30628) [INFO] [VCAMDS] On Thread Destroy
+I2025-07-02 11:53:46.692348 (30628) [INFO] [VCAMDS] Video data consumption app tracker updating num apps streaming active: 0
+I2025-07-02 11:53:46.692348 (30628) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps streaming active succeeded
+I2025-07-02 11:53:46.693465 (24532) [INFO] [VCAMDS] Destroying parent object
+I2025-07-02 11:53:46.693465 (24532) [INFO] [VCAMDS] Destroying WndMsg Listener Window
+I2025-07-02 11:53:46.694473 (24532) [INFO] [VCAMDS] Destroyed window
+I2025-07-02 11:53:46.695477 (24532) [INFO] [VCAMDS] Unregistered window class
+I2025-07-02 11:53:46.695477 (24532) [INFO] [VCAMDS] Video data consumption app tracker updating num DLL loaded: 0
+I2025-07-02 11:53:46.707924 (24532) [INFO] [VCAMDS] NvMxnCltShmConsumer Update num apps DLL loaded succeeded
+[ WARN:0@3.605] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.610] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.614] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.617] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.621] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.625] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+[ WARN:0@3.628] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+Scanning for available webcams...
+Camera detected at index 0
+Camera detected at index 1
+Camera detected at index 2
+Traceback (most recent call last):
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\takePicture.py", line 82, in <module>
+    webcam_index = select_webcam()
+  File "C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\takePicture.py", line 36, in select_webcam
+    print("\n\U0001f3a5 Available Webcams:")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Stephen\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f3a5' in position 2: character maps to <undefined>
+❌ takePicture.py failed (code 1)

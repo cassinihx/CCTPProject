@@ -1,0 +1,13 @@
+{
+  "webcam_index": 0,
+  "providers": {
+    "pimeyes": {
+      "enabled": false
+    },
+    "facecheck": {
+      "enabled": true,
+      "api_token": "bzyv2w+tj4GJTivE9oD893CODylyVkJw8HSFFYdlGmoigmYKy0OzIC+PqUSv+h+5Z4FMzt7l1jw=",
+      "testing_mode": true
+    }
+  }
+}

@@ -1,0 +1,120 @@
+==== run 2025-07-02_13-54-26 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+PimEyes disabled in config.
+[2] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 100
+FACECHECK_MATCH 68 https://pinecountynews.com/communities/pinecity/early-morning-burglary-at-pine-city-home/article_1235353e-52ff-11ec-98db-7f3227b44204.html
+FACECHECK_MATCH 65 https://twitter.com/darkmaiming
+FACECHECK_MATCH 65 https://butleroh.mugshots.zone/barham-leonard-gray-mugshot-12-06-2023/
+FACECHECK_MATCH 63 https://tasnimnews.com/en/news/2016/03/29/1035563/fidel-castro-lashes-out-at-obama-after-cuba-visit
+FACECHECK_MATCH 63 https://tasnimnews.com/en/news/2016/11/26/1250462/former-cuban-leader-fidel-castro-dies-aged-90
+FACECHECK_MATCH 63 https://thenews.com.pk/print/1271317-talks-deadline-may-be-extended-if-headway-made-shibli
+FACECHECK_MATCH 63 https://twitter.com/LouisChriss
+FACECHECK_MATCH 63 https://saronnonews.it/2020/06/23/elezioni-a-saronno-scende-in-campo-anche-pierluigi-gilli/
+FACECHECK_MATCH 63 https://thenews.com.pk/print/1237877-plea-for-shibli-faraz-s-transit-bail-withdrawn
+FACECHECK_MATCH 61 https://collintx.mugshots.zone/stanton-william-mugshot-03-03-2023/
+FACECHECK_MATCH 60 https://aspendailynews.com/opinion/parrott-how-lucky-can-one-man-get/article_2033a694-4d5c-11ee-a700-df475d7c54f9.html
+FACECHECK_MATCH 60 https://aspendailynews.com/opinion/parrott-design-the-beautiful-build-the-impossible/article_46e91fd4-24e6-11ed-a912-2f5ea78fbcb2.html
+FACECHECK_MATCH 60 https://news.pngfacts.com/2016/11/png-prime-minister-peter-oneill-extends.html?m=0
+FACECHECK_MATCH 60 https://thenews.com.pk/print/1234677-rulers-toying-with-constitution-prolonging-cases-shibli
+FACECHECK_MATCH 60 https://makassar.tribunnews.com/2019/07/10/kisah-almarhum-ali-baba-di-mata-eks-pemain-psm-ansar-abdullah-syamsuddin-umar-dan-jacksen-f-tiago?page=3
+FACECHECK_MATCH 60 https://miragenews.com/telehealth-powers-first-ever-suicide-prevention-1355559/
+FACECHECK_MATCH 60 https://manchestereveningnews.co.uk/news/greater-manchester-news/people-cant-believe-what-were-28123978
+FACECHECK_MATCH 60 https://hendricksin.mugshots.zone/cox-richard-anthony-mugshot-03-06-2024/
+FACECHECK_MATCH 60 https://njspotlightnews.org/2020/01/op-ed-an-important-step-forward-for-rx-prices/
+FACECHECK_MATCH 60 https://charismanews.com/news/us/bishop-sam-clements-selected-as-new-general-overseer-of-the-church-of-god-of-prophecy/
+FACECHECK_MATCH 60 https://health.usnews.com/doctors/justin-woods-1843389
+FACECHECK_MATCH 59 https://israelnationalnews.com/news/365967
+FACECHECK_MATCH 59 https://health.usnews.com/doctors/matthew-bisgaier-3117311
+FACECHECK_MATCH 59 https://twitter.com/christiangeigel
+FACECHECK_MATCH 58 https://www.entertainmentdailyuk.com/news/hairy-bikers-dave-myers-si-king-scam-warning/
+FACECHECK_MATCH 58 https://www.entertainmentdaily.com/news/hairy-bikers-dave-myers-si-king-scam-warning/
+FACECHECK_MATCH 58 https://indiatvnews.com/news/world-cuba-does-not-need-any-gifts-from-united-states-fidel-castro-321429
+FACECHECK_MATCH 58 https://www.news.uct.ac.za/article/-2009-05-13-new-book-illuminates-naturalism-and-philosophys-science-connection
+FACECHECK_MATCH 58 https://instagram.com/_billymaresca
+FACECHECK_MATCH 58 https://etowah.mugshots.zone/blair-steven-ray-mugshot-10-30-2023/
+FACECHECK_MATCH 58 https://twitter.com/Mr_Dreher
+FACECHECK_MATCH 58 https://www.heraldsun.com.au/news/nsw/power-100-full-list-of-sydneys-most-powerful-people-in-2022-revealed/news-story/f8af8bf11d1207dbaf174a485f861b4e
+FACECHECK_MATCH 58 https://alphanews.org/second-squad-member-defeated-in-missouri-democratic-primary-by-county-prosecutor/
+FACECHECK_MATCH 58 https://southwestjailva.mugshots.zone/turner-kevin-aaron-mugshot-05-06-2023/
+FACECHECK_MATCH 58 https://news.com.au/lifestyle/beauty/face-body/australian-beauty-blogger-chloe-morello-hits-out-at-fake-followers-during-17-minute-expos-video/news-story/b51aacf9b05a1cbcc2d29d980f97f055
+FACECHECK_MATCH 58 https://gulfnews.com/world/americas/fidel-castro-remains-a-mystery-with-prominent-tv-interview-1.653709
+FACECHECK_MATCH 58 https://instagram.com/mugshots.orlando/p/C1GIrNOhviQ/
+FACECHECK_MATCH 58 https://moorenc.mugshots.zone/love-kristopher-kelvin-mugshot-10-30-2022/
+FACECHECK_MATCH 58 https://twitter.com/Price4TnSenate
+FACECHECK_MATCH 58 https://thesun.co.uk/tvandshowbiz/11694313/normal-people-paul-mescal-shirtless-chain/
+FACECHECK_MATCH 58 https://twitter.com/cjenks_iu
+FACECHECK_MATCH 57 https://news.ro/externe/belarus-lukasenko-este-pe-cale-sa-castige-al-saptelea-mandat-cu-87-6-din-voturi-arata-un-exit-poll-1922403426012025011921912351
+FACECHECK_MATCH 57 https://news.ro/externe/belarusul-ancheteaza-20-de-analisti-pentru-afectarea-securitatii-nationale-1922405426502024012021473412
+FACECHECK_MATCH 57 https://crazyporn.xxx/videos/25013/lila-jordan-ahegao-spit/
+FACECHECK_MATCH 57 https://qdpnews.it/comuni/conegliano/vendemmia-2024-nel-docg-il-consorzio-tempi-anticipati-ma-uva-molto-bella-e-stato-sanitario-fantastico/
+FACECHECK_MATCH 57 https://www.scottishfinancialnews.com/articles/cms-appoints-michael-urquhart-as-of-counsel-to-its-banking-and-finance-team-in-edinburgh
+FACECHECK_MATCH 57 https://7news.com.au/sport/rugby-league/brisbane-broncos-enforcer-martin-taupau-learns-fate-after-dangerous-knee-raising-incident-c-11353770
+FACECHECK_MATCH 57 https://rowannc.mugshots.zone/petty-roscoe-travis-mugshot-04-12-2024/
+FACECHECK_MATCH 56 https://9news.com.au/nasa
+FACECHECK_MATCH 56 https://9news.com.au/space
+FACECHECK_MATCH 56 https://twitter.com/MGessin
+FACECHECK_MATCH 56 https://socialnews.xyz/2024/05/21/top-german-diplomat-urges-allies-to-protect-ukraines-skies-from-russia/
+FACECHECK_MATCH 56 https://thesun.co.uk/sport/football/4113849/arsenal-lucas-perezs-agent-flies-into-london/
+FACECHECK_MATCH 56 https://dailysentinel.com/news/local/sex-offender-gets-life-sentence/article_d3883a16-09e8-5d93-a02a-063993a037f6.html
+FACECHECK_MATCH 56 https://news.uthscsa.edu/ut-health-san-antonio-school-of-nursings-wellness-360-wins-national-award-for-pediatric-vaccinations-and-well-child-visits/
+FACECHECK_MATCH 56 https://news.com.au/travel/travel-updates/incidents/apollo-8-astronaut-william-anders-dead-in-plane-crash/news-story/2b276a8d45c88cdfea1c7a87d51e5ce7
+FACECHECK_MATCH 56 https://foxnews.com/us/the-latest-suspect-in-ex-chiropractor-killing-was-patient
+FACECHECK_MATCH 56 https://twitter.com/katavasios
+FACECHECK_MATCH 56 https://www.israelnationalnews.com/en/news/149980
+FACECHECK_MATCH 56 https://gulfnews.com/business/corporate-news/ross-kernez-announces-the-october-seo-meetup-1.1665748536324
+FACECHECK_MATCH 56 https://es.euronews.com/my-europe/2024/03/02/nicolas-schmit-principal-candidato-socialista-para-las-elecciones-europeas
+FACECHECK_MATCH 56 https://twitter.com/MikeAdamLI
+FACECHECK_MATCH 56 https://wfxb.com/2020/06/22/mugshots-june-19th-21st-2020/gall-christopher-scott-public-disorderly/
+FACECHECK_MATCH 56 https://dnews.com/sports/bulldogs-are-getting-deeper02b7d8df
+FACECHECK_MATCH 56 https://twitter.com/jsonc_
+FACECHECK_MATCH 56 https://instagram.com/garrettwaynedunlap
+FACECHECK_MATCH 56 https://twitter.com/kayteedahling
+FACECHECK_MATCH 56 https://news.sky.com/story/man-guilty-of-murdering-women-on-puppy-farm-10384569
+FACECHECK_MATCH 56 https://bilnews.bilkent.edu.tr/archive/issue_18_13/faceoncampus.html
+FACECHECK_MATCH 56 https://uk.news.yahoo.com/two-brothers-jailed-raping-sexually-095521810.html
+FACECHECK_MATCH 56 https://instagram.com/tara337887
+FACECHECK_MATCH 56 https://highgroundnews.com/focusareas/technologyandinnovation.aspx?page=9
+FACECHECK_MATCH 56 https://twitter.com/ByPeterCoutu
+FACECHECK_MATCH 56 https://instagram.com/mariatyler1614
+FACECHECK_MATCH 56 https://manchestereveningnews.co.uk/news/uk-news/siblings-jailed-manslaughter-after-feeding-20777917
+FACECHECK_MATCH 56 https://www.facebook.com/tara.abbott.79
+FACECHECK_MATCH 56 https://instagram.com/evanstoddard23
+FACECHECK_MATCH 56 https://twitter.com/AndrewBarbacki
+FACECHECK_MATCH 55 https://health.usnews.com/doctors/jeffrey-blackwell-2442864
+FACECHECK_MATCH 55 https://health.usnews.com/doctors/family-medicine-doctors/virginia/raven
+FACECHECK_MATCH 55 https://cheknews.ca/crews-responding-to-possible-plane-crash-between-2-u-s-islands-uscg-1208366/
+FACECHECK_MATCH 55 https://naplesnews.com/picture-gallery/entertainment/arts/2019/02/12/gulfshore-playhouses-in-next-room-vibrator-play/2851684002/
+FACECHECK_MATCH 55 https://abcnews.al/misteri-i-zbulimit-deshmia-e-rralle-pjeter-arbnori-me-tregoi-njeriun-qe-na-spiunoi/
+FACECHECK_MATCH 55 https://homefacts.com/offender-detail/FL32215/Patrick-Green.html
+FACECHECK_MATCH 55 https://sciencesouthtyrol.net/pages/details/news.aspx?i=UNIBZ&t=2%2C33%2C77%2C422%2C37%2C22%2C441%2C51%2C381%2C78&tt=news&p=414
+FACECHECK_MATCH 55 https://twitter.com/Cub0fJoe
+FACECHECK_MATCH 55 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 55 https://browardfl.mugshots.zone/carpenella-cliff-mugshot-12-14-2022/
+FACECHECK_MATCH 55 https://twitter.com/Robert_Lowrey
+FACECHECK_MATCH 55 https://news.refresher.sk/tema/vlada-roberta-fica
+FACECHECK_MATCH 55 https://twitter.com/KingTurck
+FACECHECK_MATCH 55 https://twitter.com/drkamalkantsahu
+FACECHECK_MATCH 55 https://twitter.com/MRichardsAuthor
+FACECHECK_MATCH 54 https://news.educarriere.ci/news-30601-cote-d-ivoire-nathalie-yamb-lider-expulsee-mamadou-koulibaly-reagit.html
+FACECHECK_MATCH 54 https://twitter.com/amkuzoian
+FACECHECK_MATCH 54 https://instagram.com/_ohthatjosh_
+FACECHECK_MATCH 54 https://twitter.com/mgarrington
+FACECHECK_MATCH 54 https://instagram.com/meganluke4129
+FACECHECK_MATCH 54 https://twitter.com/RyanHindinger
+FACECHECK_MATCH 54 https://instagram.com/pnw_wanderer87
+FACECHECK_DONE
+==== finished ====

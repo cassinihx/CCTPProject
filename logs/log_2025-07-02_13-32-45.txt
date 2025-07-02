@@ -1,0 +1,122 @@
+==== run 2025-07-02_13-32-45 ====
+[1/2] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2/2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+No cookie popup detected. Continuing...
+Searching for the 'Upload Photos' button...
+'Upload Photos' button not found.
+[3/3] facecheck_search.py …
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 87
+FACECHECK_PROGRESS 100
+FACECHECK_MATCH 68 https://wausaupilotandreview.com/2020/08/24/wausau-sex-offender-accused-of-stalking-strangling-girlfriend-arraigned/
+FACECHECK_MATCH 61 https://health.usnews.com/doctors/darpan-sohni-3155927
+FACECHECK_MATCH 60 https://it.blastingnews.com/tv-gossip/2023/09/grande-fratello-tavassi-ad-alfonso-non-si-sputa-nel-piatto-dove-si-e-mangiato-003747783.html
+FACECHECK_MATCH 60 https://instagram.com/canadacoder
+FACECHECK_MATCH 60 https://twitter.com/sam_parks1
+FACECHECK_MATCH 59 https://twitter.com/KingTurck
+FACECHECK_MATCH 58 https://baritalianews.it/88612/2022/10/11/alfonso-signorini-incredibile-gaffe-al-grande-fratello-vip-gelo-in-studio/
+FACECHECK_MATCH 58 https://porncorporation.com/tag/cute/page/217/?from_index=81
+FACECHECK_MATCH 58 https://porncorporation.com/tag/natasha-starr/
+FACECHECK_MATCH 58 https://yespornpics.com/sex/black-big-tits/80
+FACECHECK_MATCH 58 https://pinecountynews.com/communities/pinecity/early-morning-burglary-at-pine-city-home/article_1235353e-52ff-11ec-98db-7f3227b44204.html
+FACECHECK_MATCH 57 https://www.world-today-news.com/big-brother-2023-2024-controversy-and-criticism-surrounding-beatrice-luzzis-exit/
+FACECHECK_MATCH 56 https://www.entertainmentdailyuk.com/news/hairy-bikers-dave-myers-si-king-scam-warning/
+FACECHECK_MATCH 56 https://www.entertainmentdaily.com/news/hairy-bikers-dave-myers-si-king-scam-warning/
+FACECHECK_MATCH 56 https://chenews.it/2022/02/28/celentano-figlio-lutto-gf-vip-victoria-seno/
+FACECHECK_MATCH 56 https://tradewindsnews.com/ship-management/lqm-chief-bunker-derivatives-market-still-a-big-players-game/2-1-813015
+FACECHECK_MATCH 56 https://eporner.com/search-photos/twistys/
+FACECHECK_MATCH 56 https://willmarradio.com/news/sauk-centre-man-sentenced-for-producing-child-porn/article_892d4998-3f7d-11ef-ab91-7397b82a72cc.html
+FACECHECK_MATCH 56 https://news.csu.edu.au/latest-news/charles-sturt-academic-awarded-kings-birthday-honour-for-work-in-rural-health
+FACECHECK_MATCH 56 https://www.foxnews.com/sports/giants-great-eli-manning-takes-surprising-stance-artificial-turf-aaron-rodgers-injury
+FACECHECK_MATCH 56 https://instagram.com/dustmywets
+FACECHECK_MATCH 56 https://twitter.com/rossbuck
+FACECHECK_MATCH 56 https://instagram.com/lnak00
+FACECHECK_MATCH 55 https://aninews.in/news/entertainment/hollywood/august-diehl-andrea-riseborough-to-lead-biographical-drama-the-noise-of-time20240514231318
+FACECHECK_MATCH 55 https://villages-news.com/2024/06/30/repeat-road-rager-nabbed-at-publix-sentenced-to-six-months-in-jail/
+FACECHECK_MATCH 55 https://news.berkeley.edu/2015/12/14/six-things-i-learned-at-cop21-about-carbon-removal/
+FACECHECK_MATCH 55 https://es.bitcoinethereumnews.com/tech/cardano-founder-explains-his-position-on-ledgers-controversial-upgrade/
+FACECHECK_MATCH 55 https://twitter.com/drkamalkantsahu
+FACECHECK_MATCH 54 https://wspynews.com/news/local/two-arrested-in-lisbon-twp-home-invasion/article_d40ae03c-b1f8-11e9-b66d-ab3534c784c4.html
+FACECHECK_MATCH 54 https://wspynews.com/news/local/lockport-man-sentenced-to-21-years-in-prison-in-lisbon-township-home-invasion-case/article_5a99c8b2-3569-11eb-8b10-07ece130abfe.html
+FACECHECK_MATCH 54 https://www.heraldsun.com.au/entertainment/fresh-photos-of-lleyton-and-bec-hewitts-children-might-leave-you-feeling-old/news-story/b4b02c67c4373647f5a67dd17801cce1
+FACECHECK_MATCH 54 https://baritalianews.it/102564/2023/10/17/grande-fratello-alfonso-signorini-sbotta-contro-il-padre-di-heidi-questo-non-e-mai-successo/
+FACECHECK_MATCH 54 https://instagram.com/leolsu85
+FACECHECK_MATCH 54 https://ottawa.citynews.ca/2023/10/18/musician-mike-skinner-turns-actor-and-director-with-the-darker-the-shadow-the-brighter-the-light/
+FACECHECK_MATCH 54 https://timesnownews.com/entertainment-news/hollywood/deadpool-wolverine-heres-how-chris-evans-snatched-spotlight-in-just-5-minutes-article-112108227
+FACECHECK_MATCH 54 https://twitter.com/labsarecooking
+FACECHECK_MATCH 54 https://wdez.com/2024/11/07/stevens-point-man-facing-child-porn-charges/
+FACECHECK_MATCH 54 https://oglioponews.it/2024/10/03/chi-e-mario-orfeo-da-lunedi-al-timone-di-repubblica/
+FACECHECK_MATCH 54 https://twitter.com/vfxdad
+FACECHECK_MATCH 54 https://twitter.com/Bear_Charger
+FACECHECK_MATCH 54 https://winnipegfreepress.com/breakingnews/2009/12/24/high-risk-offender-released-today
+FACECHECK_MATCH 54 https://twitter.com/dantonnoriega
+FACECHECK_MATCH 54 https://www.facebook.com/myrissa.robertson.5
+FACECHECK_MATCH 54 https://www.facebook.com/profile.php?id=100076303263842
+FACECHECK_MATCH 54 https://twitter.com/alexoimas
+FACECHECK_MATCH 54 https://instagram.com/_cr_rathore_
+FACECHECK_MATCH 54 https://voiceofalexandria.com/news/local/man-from-sauk-centre-sentenced-for-producing-child-pornography/article_1dc52558-3f83-11ef-97a0-5fcbf86e2c3e.html
+FACECHECK_MATCH 54 https://manchestereveningnews.co.uk/news/uk-news/siblings-jailed-manslaughter-after-feeding-20777917
+FACECHECK_MATCH 54 https://ffnews.com/people/andrew-stevens/
+FACECHECK_MATCH 53 https://news.bitcoin.com/ru/vedushchiy-mad-money-dzhim-kreymer-govorit-chto-bitkoin-dostigaet-pika/
+FACECHECK_MATCH 53 https://windownews.co.uk/bfrc-welcomes-lee-dearman/
+FACECHECK_MATCH 53 https://fr.news.yahoo.com/chris-evans-%C3%A9lu-l-homme-114701710.html
+FACECHECK_MATCH 53 https://www.bergamonews.it/
+FACECHECK_MATCH 53 https://quora.com/How-do-you-report-an-online-romance-scam-and-is-it-possible-to-get-your-money-back
+FACECHECK_MATCH 52 https://news.solopos.com/hollywood-komentari-kebijakan-trump-larang-muslim-masuki-as-788560
+FACECHECK_MATCH 52 https://news.bitcoin.com/morgan-stanley-on-decline-of-us-dollar-jpmorgan-warns-of-a-btc-selloff-btc-mining-improved-and-more-week-in-review/
+FACECHECK_MATCH 52 https://pcguida.com/web/news.php?news=2023-2-202&tag=gossip
+FACECHECK_MATCH 52 https://twitter.com/cldeboy
+FACECHECK_MATCH 52 https://twitter.com/NebrasKenFG
+FACECHECK_MATCH 52 https://fortbendtx.mugshots.zone/hajecate-anthony-francisco-mugshot-02-29-2024/
+FACECHECK_MATCH 52 https://www.cbsnews.com/minnesota/news/knife-weilding-man-allegedly-commits-st-paul-apartment-arson/
+FACECHECK_MATCH 52 https://valseriananews.it/2016/04/21/signorini-innamorato-della-valseriana-su-chi-racconta-bratto-e-i-casoncelli/
+FACECHECK_MATCH 52 https://timesnownews.com/entertainment/celebs/hollywood/chris-evans-shirtless-pics-that-are-absolute-thirst-trap-photo-gallery-103845856
+FACECHECK_MATCH 52 https://www.fxcryptonews.com/cardano-founder-addresses-the-u-s-house-of-reps-offers-favourable-regulations-for-regulating-20000-cryptocurrencies/
+FACECHECK_MATCH 52 https://hotnews.ro/corneliu-iacobov-condamnat-definitiv-la-7-ani-de-inchisoare-in-dosarul-rafo-onesti-633091
+FACECHECK_MATCH 52 https://thehockeynews.com/nhl/new-york-islanders/latest-news/new-york-islanders-philadelphia-flyers-2024-25-metropolitan-division
+FACECHECK_MATCH 52 https://twitter.com/esotericmoyer
+FACECHECK_MATCH 52 https://dibiz.com/aradhyaescortsgirls30
+FACECHECK_MATCH 52 https://instagram.com/sjdlindo
+FACECHECK_MATCH 52 https://cbsnews.com/pictures/fidel-ruz-castro/11/
+FACECHECK_MATCH 52 https://cnews.fr/france/2024-11-28/abrogation-de-la-reforme-des-retraites-notion-de-consentement-remuneration
+FACECHECK_MATCH 52 https://esgnews.com/heirloom-secures-150m-series-b-to-scale-direct-air-capture-technology/
+FACECHECK_MATCH 52 https://hot.com/us/nd/fargo/escorts/gallery/1-208-260-5687/m-ejsK
+FACECHECK_MATCH 52 https://twitter.com/colin_swenson
+FACECHECK_MATCH 52 https://twitter.com/Dewalt901
+FACECHECK_MATCH 52 https://porn-w.org/topic11252916-2340.html
+FACECHECK_MATCH 52 https://wmtv15news.com/content/news/88-year-old-man-reported-missing-endangered-found-his-way-home-420725003.html
+FACECHECK_MATCH 52 https://tradewindsnews.com/finance/marine-fuel-trading-firm-shipergy-gets-15m-credit-facility-with-dnb/2-1-1617773
+FACECHECK_MATCH 52 https://www.instagram.com/news.vladikavkaz15/p/DClMWSNtDES/
+FACECHECK_MATCH 52 https://thenationalnews.com/sport/jenson-buttons-advice-for-nico-rosberg-engineer-a-way-around-lewis-1.86480
+FACECHECK_MATCH 52 https://www.facebook.com/tara.abbott.79
+FACECHECK_MATCH 52 https://www.cdnews.ro/lifestyle/oreste-catre-mircea-badea-pui-de-turnator-te-voi-dezbraca-foaie-cu-foaie-ca-pe-o-ceapa/
+FACECHECK_MATCH 52 https://twitter.com/JeffGalliher
+FACECHECK_MATCH 52 https://salineks.mugshots.zone/krueger-riley-kurtis-mugshot-06-21-2024/
+FACECHECK_MATCH 52 https://www.homefacts.com/offender-detail/TN00446062/Zachary-Harrison.html
+FACECHECK_MATCH 51 https://pinterest.com/pin/looks-like-a-sexed-up-mugshot--840202874208053815/
+FACECHECK_MATCH 51 https://news.com.au/entertainment/celebrity-life/kendall-jenner-divides-opinion-with-cruel-dog-collar/news-story/a37fdbcd194c6238a146b24d71b5fef3
+FACECHECK_MATCH 51 https://ntnews.com.au/entertainment/marvel-star-chris-evans-breaks-silence-about-infamous-viral-photo/news-story/e91eb3c4d6833c3351b6ef7689a1fa34
+FACECHECK_MATCH 51 https://www.world-today-news.com/alfonso-signorinis-outburst-at-big-brother-2023-host-expresses-frustration-with-constant-competitor-crises/
+FACECHECK_MATCH 51 https://instagram.com/gogegordon
+FACECHECK_MATCH 51 https://apnews.com/article/capitol-riot-rhodes-oath-keepers-3494fd3a8a707a79ac187694572eb58f
+FACECHECK_MATCH 51 https://christianky.mugshots.zone/moore-michael-allen-mugshot-03-30-2021/
+FACECHECK_MATCH 51 https://twitter.com/Bobcat_syfy
+FACECHECK_MATCH 51 https://instagram.com/jessxhooper
+FACECHECK_MATCH 51 https://instagram.com/niick_gant
+FACECHECK_MATCH 51 https://twitter.com/bloomin_onions
+FACECHECK_MATCH 51 https://twitter.com/Shelly60508330
+FACECHECK_MATCH 51 https://twitter.com/Moret_2
+FACECHECK_MATCH 51 https://manchestereveningnews.co.uk/special-features/acquiesce-addict-recovery-centre-bolton-17548102
+FACECHECK_MATCH 51 https://www.instagram.com/godrakdnb/p/DGM9asyoBCq/
+FACECHECK_DONE
+==== finished ====
