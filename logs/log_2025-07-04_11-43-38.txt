@@ -1,0 +1,139 @@
+==== run 2025-07-04_11-43-38 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+Cookies accepted!
+Searching for the 'Upload Photos' button...
+'Upload Photos' button clicked!
+Searching for the hidden file input...
+File input found! Uploading image...
+Image uploaded successfully!
+Waiting before checking checkboxes to prevent bot detection...
+Searching for checkboxes...
+Checkbox 1 ticked!
+Checkbox 2 ticked!
+Checkbox 3 ticked!
+Searching for the 'Start Search' button...
+Search started successfully!
+Search Results URL: https://pimeyes.com/en/results/dzn_250704byqp37uv3u7qbukd41245ee?query=fff73341f8180808f0f8f8f070703000
+[3] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 85
+FACECHECK_PROGRESS 96
+FACECHECK_MATCH 56 https://news.artnet.com/art-world/art-industry-news-september-26-2018-1357033
+FACECHECK_MATCH 53 https://instagram.com/vikkdimitrov
+FACECHECK_MATCH 52 https://news.artnet.com/art-world/0/page/1341
+FACECHECK_MATCH 52 https://twitter.com/zmeunier
+FACECHECK_MATCH 52 https://newrivervalleyjailva.mugshots.zone/nelson-jason-neil-mugshot-07-17-2023/
+FACECHECK_MATCH 51 https://toronto.citynews.ca/2022/03/17/explainer-could-ukrainian-neutrality-help-end-russia-war/
+FACECHECK_MATCH 51 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=11%2F02%2F2020+at+05%3A30+pm&type=advanced
+FACECHECK_MATCH 51 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=08%2F11%2F2023+at+06%3A00+pm&type=advanced
+FACECHECK_MATCH 51 https://thehockeynews.com/nhl/new-york-islanders/latest-news/patrick-roy-tony-deangelo-new-york-islanders-carolina-hurricanes-2024-stanley-cup-playoffs
+FACECHECK_MATCH 51 https://thehockeynews.com/nhl/new-york-islanders/latest-news/tampa-bay-lightning-new-york-islanders-power-play-kyle-palmieri-anders-lee-nikita-kucherov
+FACECHECK_MATCH 51 https://fr.euronews.com/culture/2024/01/08/golden-globes-2024-les-meilleures-tenues-des-celebrites-sur-le-tapis-rouge
+FACECHECK_MATCH 51 https://it.euronews.com/cultura/2024/01/09/ridurre-lo-spreco-alimentare-ecco-come-iniziare
+FACECHECK_MATCH 51 https://es.euronews.com/cultura/2024/01/09/quiere-reducir-el-desperdicio-de-alimentos-aqui-tienes-algunos-consejos-para-empezar
+FACECHECK_MATCH 51 https://twitter.com/timhatton
+FACECHECK_MATCH 51 https://instagram.com/barkeepsam
+FACECHECK_MATCH 51 https://twitter.com/mmilesgoodrich
+FACECHECK_MATCH 50 https://mpnews.com.au/2016/03/21/crime-stable-on-peninsula/
+FACECHECK_MATCH 49 https://www.bssnews.net/news-flash/49896
+FACECHECK_MATCH 49 https://thehockeynews.com/nhl/new-york-islanders/latest-news/new-york-islanders-philadelphia-flyers-2024-25-metropolitan-division
+FACECHECK_MATCH 49 https://news.mc/author/rosspovey/page/11/
+FACECHECK_MATCH 49 https://twitter.com/nathanritter
+FACECHECK_MATCH 49 https://usnews.com/doctors/vitreous-opacities-and-degeneration/oregon/portland
+FACECHECK_MATCH 49 https://www.boatnews.com/story/36150/3-questions-to-marc-van-peteghem-naval-architect-vplp
+FACECHECK_MATCH 49 https://true-news.it/events/cronicita-sfida-sempre-aperta-panel-salute-direzione-nord
+FACECHECK_MATCH 49 https://twitter.com/jmoussalli1
+FACECHECK_MATCH 49 https://hm-news.co.il/343733/
+FACECHECK_MATCH 49 https://www.ntnews.com.au/news/victoria/patrick-carlyon-history-happened-on-his-watch-but-how-will-dan-andrews-be-remembered/news-story/8308429764fc8b8c39f19c788e6542e4
+FACECHECK_MATCH 49 https://www.facebook.com/carter.marks.7
+FACECHECK_MATCH 48 https://wxxinews.org/npr-arts-life/2025-01-31/whats-making-us-happy-a-guide-to-your-weekend-viewing-and-listening
+FACECHECK_MATCH 48 https://news.prairiepublic.org/2024-12-04/no-surprise-this-week-kendrick-lamar-rules-the-charts
+FACECHECK_MATCH 48 https://news.prairiepublic.org/news-from-npr/2023-09-29/sam-smith-tiny-desk-concert
+FACECHECK_MATCH 48 https://news.prairiepublic.org/2024-08-27/sabrina-carpenter-releases-new-music-short-n-sweet-her-6th-album
+FACECHECK_MATCH 48 https://keranews.org/2024-12-18/the-season-of-christmas-songs-is-here-will-the-classics-make-room-for-anything-new
+FACECHECK_MATCH 48 https://news.wjct.org/2024-07-19/this-weeks-new-albums-including-the-twisters-soundtrack
+FACECHECK_MATCH 48 https://news.artnet.com/art-world/singapore-unfreezes-yves-bouviers-assets-327141
+FACECHECK_MATCH 48 https://news.artnet.com/art-world/dmitri-rybolovlev-yves-bouvier-injunction-310007
+FACECHECK_MATCH 48 https://courthousenews.com/sothebys-messy-price-gouging-dispute-heads-to-jury-deliberations/
+FACECHECK_MATCH 48 https://halesowennews.co.uk/news/national/24086264.russian-billionaire-loses-art-fraud-case-sothebys/
+FACECHECK_MATCH 48 https://news.artnet.com/art-world/yves-bouvier-vows-revenge-against-rybolovlev-329478
+FACECHECK_MATCH 48 https://news.mc/2024/01/14/monacos-rybolovlev-gets-emotional-over-being-cheated-in-art-deals/
+FACECHECK_MATCH 48 https://mulengeranews.com/m7-orders-scandal-riddled-opm-out-of-nam-meeting-preparations/
+FACECHECK_MATCH 48 https://www.arabnews.com/art-culture/news/883666
+FACECHECK_MATCH 48 https://abcnews.go.com/GMA/News/video/american-citizen-killed-west-bank-97514065
+FACECHECK_MATCH 48 https://www.pokernews.com/news/2016/01/five-poker-predictions-for-2016-23790.htm
+FACECHECK_MATCH 48 https://naplesnews.com/picture-gallery/entertainment/arts/2019/02/12/gulfshore-playhouses-in-next-room-vibrator-play/2851684002/
+FACECHECK_MATCH 48 https://sg.news.yahoo.com/russian-call-us-hand-over-rachmaninov-remains-raises-195849992.html
+FACECHECK_MATCH 48 https://health.usnews.com/doctors/vladimir-chachanidze-409111
+FACECHECK_MATCH 48 https://toradionews.it/intervista-a-gianfranco-sorasio/
+FACECHECK_MATCH 48 https://offenderradar.com/offender-details/alexander-p-delorenzo-of-west-virginia-1159176
+FACECHECK_MATCH 48 https://twitter.com/jhemann
+FACECHECK_MATCH 48 https://thesun.ie/tv/12158169/strictly-come-dancing-amy-dowden-reveals-her-hair-cancer/
+FACECHECK_MATCH 48 https://twitter.com/ADemetriadi
+FACECHECK_MATCH 48 https://www.ticinonews.ch/ticino/nuovo-capo-per-la-sezione-della-protezione-dellaria-dellacqua-e-del-suolo-373015
+FACECHECK_MATCH 48 https://collintx.mugshots.zone/penley-dennis-ray-mugshot-10-09-2023/
+FACECHECK_MATCH 48 https://twitter.com/AlexPotcovaru
+FACECHECK_MATCH 48 https://suffolknews.co.uk/bury-st-edmunds/news/towns-labour-party-asks-council-not-to-remove-annual-grant-9300339/
+FACECHECK_MATCH 48 https://twitter.com/dockhandelwal
+FACECHECK_MATCH 48 https://twitter.com/kambiz
+FACECHECK_MATCH 48 https://techbusinessnews.com.au/news/artificial-intelligence-ai-already-in-widespread-use-in-australias-recruitment-sector/
+FACECHECK_MATCH 48 https://twitter.com/lizziestelk
+FACECHECK_MATCH 48 https://heraldsun.com.au/news/victoria/state-election/former-union-allies-target-daniel-andrews-in-election-ambush/news-story/89148f7936fda843dd192b8a9b00bf72
+FACECHECK_MATCH 48 https://scottishfinancialnews.com/articles/shepherd-and-wedderburn-establishes-covid-19-advisory-group-to-support-clients
+FACECHECK_MATCH 48 https://iowasexoffender.gov/registrant/24678/?stateid=439.default
+FACECHECK_MATCH 48 https://www.ntnews.com.au/lifestyle/health/coronavirus-victoria-hotel-quarantine-worker-had-high-viral-load-and-likely-carrying-mutant-uk-strain/news-story/aa2afb7cde93a86937e603f42b092c57
+FACECHECK_MATCH 48 https://www.sanremonews.it/2021/07/01/leggi-notizia/argomenti/politica-1/articolo/imperia-carabinieri-in-consiglio-comunale-cambiamo-se-la-prende-con-maria-nella-ponte-gesto-ch.html
+FACECHECK_MATCH 48 https://heraldsun.com.au/news/victoria/andrews-government-faces-bill-battle-in-mixed-upper-house/news-story/96dc7150dd95685570e43c0f20d46439
+FACECHECK_MATCH 48 https://alephnews.ro/inregistrare/ivan-traieste-vesnic-in-stefan-cel-mare/
+FACECHECK_MATCH 47 https://de.euronews.com/kultur/2024/01/09/russischer-oligarch-verklagt-sothebys-wegen-uberhohter-preise-fur-kunstwerke
+FACECHECK_MATCH 47 https://it.euronews.com/cultura/2016/05/16/cannes-album-del-turco-mehmet-can-mertoglu-applaudito-alla-semaine-de-la
+FACECHECK_MATCH 47 https://butleroh.mugshots.zone/barham-leonard-gray-mugshot-12-06-2023/
+FACECHECK_MATCH 47 https://lawyers.usnews.com/lawyers/jeffrey-l-jeff-fisher/90064881
+FACECHECK_MATCH 47 https://es.bitcoinethereumnews.com/tech/cardano-founder-explains-his-position-on-ledgers-controversial-upgrade/
+FACECHECK_MATCH 47 https://oglioponews.it/2024/11/23/lega-vuole-in-commissione-covid-il-medico-sospeso-nel-2022-si-accende-la-polemica/
+FACECHECK_MATCH 47 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 47 https://rowannc.mugshots.zone/petty-roscoe-travis-mugshot-04-12-2024/
+FACECHECK_MATCH 47 https://euronews.com/video/2019/05/14/a-lack-of-eu-policies-causes-populism-verhofstadt
+FACECHECK_MATCH 47 https://ca.news.yahoo.com/judge-dismisses-defamation-claims-dale-145442286.html
+FACECHECK_MATCH 46 https://de.euronews.com/2019/04/07/wahlkampf-netanyahu-will-siedlungsgebiete-annektieren
+FACECHECK_MATCH 46 https://fr.news.yahoo.com/commence-attend-l%C3%A9pisode-1027-vendredi-170000451.html
+FACECHECK_MATCH 46 https://instagram.com/carhantt
+FACECHECK_MATCH 46 https://tbsnews.net/tags/case-filed?page=1
+FACECHECK_MATCH 46 https://twitter.com/JordanHeaton19
+FACECHECK_MATCH 46 https://instagram.com/surrealist_kai
+FACECHECK_MATCH 46 https://elettronews.com/gmg-impianti-resilienza-perseveranza-e-affidabilita-professionisti-dal-1961/
+FACECHECK_MATCH 46 https://twitter.com/drghirlanda
+FACECHECK_MATCH 46 https://news.bitcoin.com/tag/cardano-development/
+FACECHECK_MATCH 46 https://instagram.com/dj.santin
+FACECHECK_MATCH 46 https://nbcnews.com/id/wbna33399706
+FACECHECK_MATCH 46 https://instagram.com/guigacunha
+FACECHECK_MATCH 46 https://irishnews.com/magazine/daily/2018/06/21/news/the-internet-exploded-with-celebration-as-new-zealand-s-pm-gave-birth-1361906/
+FACECHECK_MATCH 46 https://casertanews.it/tag/requisitoria/
+FACECHECK_MATCH 46 https://altrincham.todaynews.co.uk/news/2016/07/21/police-issue-e-fit-man-wanted-attempted-abduction-girl-hale-road/
+FACECHECK_MATCH 46 https://instagram.com/albyasca90
+FACECHECK_MATCH 46 https://www.news.de/sport/855663609/bela-rethy-privat-mit-freundin-verheiratet-kinder-laura-und-paul-fussball-kommentator-bei-amazon-prime-zdf-gehalt-raetsel-um-ehefrau/1/
+FACECHECK_MATCH 46 https://salineks.mugshots.zone/allen-emma-elyse-mugshot-11-20-2023/
+FACECHECK_MATCH 46 https://maui.trystpage.com/female-escorts/575933738370732032
+FACECHECK_MATCH 46 https://twitter.com/WalterCianciusi
+FACECHECK_MATCH 46 https://twitter.com/danstudnicky
+FACECHECK_DONE
+==== finished ====

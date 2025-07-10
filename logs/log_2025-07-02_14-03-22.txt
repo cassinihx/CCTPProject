@@ -1,0 +1,118 @@
+==== run 2025-07-02_14-03-22 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+PimEyes disabled in config.
+[2] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_MATCH 54 https://twitter.com/aminoacidhead
+FACECHECK_MATCH 54 https://twitter.com/JamesLamming
+FACECHECK_MATCH 54 https://twitter.com/zagoumenov
+FACECHECK_MATCH 53 https://twitter.com/MooreLab
+FACECHECK_MATCH 53 https://iowasexoffender.gov/registrant/24678/?stateid=439.default
+FACECHECK_MATCH 52 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=11%2F02%2F2020+at+05%3A30+pm&type=advanced
+FACECHECK_MATCH 52 https://twitter.com/DominicDebarto1
+FACECHECK_MATCH 52 https://charlottefl.mugshots.zone/hipps-dakota-mugshot-07-16-2024/
+FACECHECK_MATCH 52 https://health.usnews.com/doctors/theron-andrus-3234973
+FACECHECK_MATCH 51 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=08%2F11%2F2023+at+06%3A00+pm&type=advanced
+FACECHECK_MATCH 51 https://instagram.com/jessicaanndavis_
+FACECHECK_MATCH 51 https://zingnews.vn/10-diem-giong-nhau-giua-wonder-woman-va-cac-bom-tan-khac-cua-marvel-post753169.html
+FACECHECK_MATCH 51 https://twitter.com/JordanHeaton19
+FACECHECK_MATCH 51 https://news.bg/author/ivo-aleksiev
+FACECHECK_MATCH 51 https://collintx.mugshots.zone/penley-dennis-ray-mugshot-10-09-2023/
+FACECHECK_MATCH 51 https://twitter.com/ArsmGarrett
+FACECHECK_MATCH 51 https://twitter.com/ciano5CL
+FACECHECK_MATCH 51 https://newrivervalleyjailva.mugshots.zone/nelson-jason-neil-mugshot-07-17-2023/
+FACECHECK_MATCH 51 https://twitter.com/Robert_Lowrey
+FACECHECK_MATCH 51 https://www.escortsexe.net/New-diana-nouvelle-a-nice-ad121683.html
+FACECHECK_MATCH 51 https://www.mainlinemedianews.com/2019/01/16/main-line-student-of-the-week-andrew-brose-the-shipley-school/
+FACECHECK_MATCH 51 https://instagram.com/substantial_evidence
+FACECHECK_MATCH 50 https://thegreyhoundnews.com/6351/uncategorized/american-ice-hockey-professional-adam-johnson-dies-at-age-29/
+FACECHECK_MATCH 50 https://health.usnews.com/doctors/endocrinologists/georgia/fort-gordon
+FACECHECK_MATCH 50 https://aninews.in/news/entertainment/hollywood/august-diehl-andrea-riseborough-to-lead-biographical-drama-the-noise-of-time20240514231318
+FACECHECK_MATCH 50 https://butleroh.mugshots.zone/barham-leonard-gray-mugshot-12-06-2023/
+FACECHECK_MATCH 50 https://twitter.com/Ben_Kemper
+FACECHECK_MATCH 50 https://twitter.com/KingTurck
+FACECHECK_MATCH 50 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 49 https://apparelnews.net/news/2024/jun/27/identifying-denims-most-important-challenges/
+FACECHECK_MATCH 49 https://apparelnews.net/news/2024/jun/27/identifying-denims-most-important-challenges/?print
+FACECHECK_MATCH 49 https://bringmethenews.com/minnesota-news/convicted-child-molester-sentenced-for-failing-to-register-as-sex-offender-in-minnesota
+FACECHECK_MATCH 49 https://bringmethenews.com/minnesota-news/bus-driver-pleads-guilty-to-driving-drunk-with-35-ymca-campers-on-board
+FACECHECK_MATCH 49 https://thehockeynews.com/nhl/new-york-islanders/latest-news/patrick-roy-tony-deangelo-new-york-islanders-carolina-hurricanes-2024-stanley-cup-playoffs
+FACECHECK_MATCH 49 https://thehockeynews.com/nhl/new-york-islanders/latest-news/tampa-bay-lightning-new-york-islanders-power-play-kyle-palmieri-anders-lee-nikita-kucherov
+FACECHECK_MATCH 49 https://sg.news.yahoo.com/police-arrest-man-suspicion-manslaughter-180141611.html
+FACECHECK_MATCH 49 https://instagram.com/leolsu85
+FACECHECK_MATCH 49 https://pokernews.com/tours/world-series-of-poker-asia-pacific/2014-wsop-apac/5000-plo/chips.105128.htm
+FACECHECK_MATCH 49 https://twitter.com/rudnicknoah
+FACECHECK_MATCH 49 https://twitter.com/Bobcat_syfy
+FACECHECK_MATCH 49 https://goldsborodailynews.com/2025/02/18/amanda-howell-daly/
+FACECHECK_MATCH 49 https://instagram.com/carhantt
+FACECHECK_MATCH 49 https://newshub.co.nz/home/entertainment/2024/06/clarke-gayford-warns-against-online-scams-using-his-image-jacinda-ardern-hits-back-at-his-new-moustache.html
+FACECHECK_MATCH 49 https://haystx.mugshots.zone/boudreaux-brandon-james-mugshot-09-05-2022/
+FACECHECK_MATCH 49 https://twitter.com/louisRleslie
+FACECHECK_MATCH 49 https://palmbeachfl.mugshots.zone/collins-jack-august-mugshot-09-24-2021/
+FACECHECK_MATCH 49 https://twitter.com/brantwilson4
+FACECHECK_MATCH 49 https://twitter.com/Lisa_Beilman
+FACECHECK_MATCH 49 https://twitter.com/AlexPotcovaru
+FACECHECK_MATCH 49 https://instagram.com/alaatahhan3
+FACECHECK_MATCH 49 https://suffolknews.co.uk/bury-st-edmunds/news/towns-labour-party-asks-council-not-to-remove-annual-grant-9300339/
+FACECHECK_MATCH 49 https://instagram.com/aislingbyrne4
+FACECHECK_MATCH 49 https://bracknellnews.co.uk/news/18759217.5-award-winning-chefs-working-local-restaurants/
+FACECHECK_MATCH 49 https://www.instagram.com/p/8qZS8iHsbV/
+FACECHECK_MATCH 49 https://news.wrexham.gov.uk/ty-pawb-comedy-night-with-robin-ince-july/
+FACECHECK_MATCH 49 https://twitter.com/will_henley
+FACECHECK_MATCH 49 https://twitter.com/gazlfc71
+FACECHECK_MATCH 49 https://true-news.it/politics/maurizio-del-conte-afol-metropolitana-numeri
+FACECHECK_MATCH 49 https://www.cbsnews.com/news/national-security-adviser-gen-h-r-mcmaster-to-brief-press-live-updates/
+FACECHECK_MATCH 49 https://twitter.com/josh_t_dean
+FACECHECK_MATCH 49 https://www.cbsnews.com/newyork/news/princeton-angus-deaton-wins-nobel-prize/
+FACECHECK_MATCH 49 https://twitter.com/timgodfreyPTO
+FACECHECK_MATCH 49 https://twitter.com/michaelsutphin
+FACECHECK_MATCH 48 https://twitter.com/clarissa0473
+FACECHECK_MATCH 48 https://instagram.com/joyce.elaine207
+FACECHECK_MATCH 48 https://instagram.com/sandr7128
+FACECHECK_MATCH 48 https://instagram.com/theluckysquad
+FACECHECK_MATCH 48 https://foxnews.com/us/man-allegedly-asked-rapiest-frat-nc-state-before-waving-gun-warrant
+FACECHECK_MATCH 48 https://subynews.blogspot.com/2012_12_08_archive.html
+FACECHECK_MATCH 48 https://ynetnews.com/culture/article/hkd00z2oic
+FACECHECK_MATCH 48 https://twitter.com/johncqua
+FACECHECK_MATCH 48 https://twitter.com/feldashv
+FACECHECK_MATCH 48 https://villages-news.com/2024/06/30/repeat-road-rager-nabbed-at-publix-sentenced-to-six-months-in-jail/
+FACECHECK_MATCH 48 https://pittnc.mugshots.zone/whitehurst-bobby-ray-mugshot-10-05-2023/
+FACECHECK_MATCH 48 https://twitter.com/ChelC_781
+FACECHECK_MATCH 48 https://twitter.com/BobBraunsLedger
+FACECHECK_MATCH 48 https://news.sky.com/video/government-advisor-cant-have-criminality-driving-debate-amid-uk-protests-13190492
+FACECHECK_MATCH 48 https://twitter.com/jsonc_
+FACECHECK_MATCH 48 https://manchestereveningnews.co.uk/news/showbiz-news/sam-thompson-says-its-been-30767156
+FACECHECK_MATCH 48 https://instagram.com/barkeepsam
+FACECHECK_MATCH 48 https://www.thesun.ie/news/11602444/farrah-mcnutt-teen-shoplifter-catch-thief/
+FACECHECK_MATCH 48 https://news.bitcoin.com/tag/cardano-development/
+FACECHECK_MATCH 48 https://twitter.com/dockhandelwal
+FACECHECK_MATCH 48 https://twitter.com/nswigginton
+FACECHECK_MATCH 48 https://instagram.com/alexkastelein
+FACECHECK_MATCH 48 https://twitter.com/Nogoalnoble
+FACECHECK_MATCH 48 https://instagram.com/ashleyyvern
+FACECHECK_MATCH 48 https://twitter.com/ckinnard82
+FACECHECK_MATCH 48 https://instagram.com/bianca_kate07
+FACECHECK_MATCH 48 https://www.facebook.com/zoe.campbelleby
+FACECHECK_MATCH 48 https://spotlightsouthcobbnews.com/cobb-police-arrest-man-accused-of-strangling-officer-in-nw-atlanta/
+FACECHECK_MATCH 48 https://twitter.com/jackbuckby
+FACECHECK_MATCH 48 https://instagram.com/blair__.waldorf
+FACECHECK_MATCH 48 https://instagram.com/pnw_wanderer87
+FACECHECK_MATCH 48 https://maui.trystpage.com/female-escorts/575933738370732032
+FACECHECK_MATCH 48 https://www.varesenews.it/lettera/lega-dei-ticinesi-vogliamo-trattare-con-tremonti/
+FACECHECK_MATCH 48 https://twitter.com/DeanHillman
+FACECHECK_MATCH 48 https://twitter.com/Zelja89Luci
+FACECHECK_MATCH 48 https://instagram.com/murray.uk
+FACECHECK_MATCH 48 https://twitter.com/CommandrAvander
+FACECHECK_DONE
+==== finished ====

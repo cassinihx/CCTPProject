@@ -1,0 +1,146 @@
+==== run 2025-07-04_11-39-42 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+Cookies accepted!
+Searching for the 'Upload Photos' button...
+'Upload Photos' button clicked!
+Searching for the hidden file input...
+File input found! Uploading image...
+Image uploaded successfully!
+Waiting before checking checkboxes to prevent bot detection...
+Searching for checkboxes...
+Checkbox 1 ticked!
+Checkbox 2 ticked!
+Checkbox 3 ticked!
+Searching for the 'Start Search' button...
+Search started successfully!
+Search Results URL: https://pimeyes.com/en/results/BGG_250704y4t9nzg0y945xvhd52a096c?query=fff72352f8101010f070f8f070707030
+[3] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 86
+FACECHECK_MATCH 48 https://twitter.com/aminoacidhead
+FACECHECK_MATCH 45 https://twitter.com/Mr_Dreher
+FACECHECK_MATCH 45 https://www.mintpressnews.com/tag/barrett-lancaster-brown/
+FACECHECK_MATCH 45 https://instagram.com/niick_gant
+FACECHECK_MATCH 44 https://windownews.co.uk/bfrc-welcomes-lee-dearman/
+FACECHECK_MATCH 44 https://www.pokernews.com/news/2016/01/five-poker-predictions-for-2016-23790.htm
+FACECHECK_MATCH 44 https://israelnationalnews.com/news/365967
+FACECHECK_MATCH 44 https://www.senzacolonnenews.it/citta/item/lotorino-barese-quaranta-eletto-presidente-della-societa-italiana-di-audiologia.html
+FACECHECK_MATCH 44 https://twitter.com/danielyanisse
+FACECHECK_MATCH 43 https://www.channelnews.mu/2024/04/laccusation-provisoire-de-conspiracy-rayee-contre-danesh-ellayah/
+FACECHECK_MATCH 43 https://shownews.today/trending/Stranger-Things-Star-Joseph-Quinn-Starts-Crying-In-Public-After-Fans-Show-Him-All-The-Love-20220712-0001.html
+FACECHECK_MATCH 43 https://twitter.com/DSF_Paul
+FACECHECK_MATCH 43 https://es.bitcoinethereumnews.com/tech/cardano-founder-explains-his-position-on-ledgers-controversial-upgrade/
+FACECHECK_MATCH 42 https://offenderradar.com/offender/state-michigan-county-ottawa-city-jenison
+FACECHECK_MATCH 42 https://offenderradar.com/offender/state-michigan-county-ottawa-city-jenison-zip-49428-street-1044-koster-st
+FACECHECK_MATCH 42 https://instagram.com/leolsu85
+FACECHECK_MATCH 42 https://nz.news.yahoo.com/jeffrey-dean-morgan-hilarie-burton-183745944.html
+FACECHECK_MATCH 42 https://www.mintpressnews.com/tag/barrett-brown/
+FACECHECK_MATCH 42 https://twitter.com/jhemann
+FACECHECK_MATCH 42 https://aninews.in/news/entertainment/hollywood/heres-why-chris-evans-is-still-single20190327213822
+FACECHECK_MATCH 42 https://www.perishablenews.com/retailfoodservice/golden-state-foods-appoints-justin-vannoy-as-corporate-vice-president-and-president-liquid-products-north-america/
+FACECHECK_MATCH 42 https://thenews.com.pk/latest/1179729-joseph-quinn-says-fantastic-four-is-very-different-amid-marvel-flops
+FACECHECK_MATCH 42 https://twitter.com/Jarmstrong521
+FACECHECK_MATCH 42 https://twitter.com/Robert_Lowrey
+FACECHECK_MATCH 42 https://www.linkedin.com/posts/phishingbox_tax-season-scam-safety-is-more-important-activity-7176555813933625344-D9dS
+FACECHECK_MATCH 42 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 42 https://manchestereveningnews.co.uk/special-features/acquiesce-addict-recovery-centre-bolton-17548102
+FACECHECK_MATCH 42 https://instagram.com/murray.uk
+FACECHECK_MATCH 41 https://sg.news.yahoo.com/police-arrest-man-suspicion-manslaughter-180141611.html
+FACECHECK_MATCH 41 https://thegreyhoundnews.com/6351/uncategorized/american-ice-hockey-professional-adam-johnson-dies-at-age-29/
+FACECHECK_MATCH 41 https://twitter.com/JHugoEnterprise
+FACECHECK_MATCH 41 https://lynchburgva.mugshots.zone/langley-michael-bonn-mugshot-03-31-2021/
+FACECHECK_MATCH 41 https://ynetnews.com/culture/article/hkd00z2oic
+FACECHECK_MATCH 41 https://thenews.com.pk/latest/1205386-joseph-quinn-lauds-gladiator-ii-director-ridley-scott-a-world-builder
+FACECHECK_MATCH 41 https://bolivarmonews.com/stories/throwaways,4668
+FACECHECK_MATCH 41 https://fr.news.yahoo.com/commence-attend-l%C3%A9pisode-1027-vendredi-170000451.html
+FACECHECK_MATCH 41 https://tuscaloosa.mugshots.zone/marcum-mugshot-12-19-2023/
+FACECHECK_MATCH 41 https://www.homefacts.com/offender-detail/IN10674135/Benjamin-Joseph-Herrington.html
+FACECHECK_MATCH 41 https://twitter.com/Ben_Kemper
+FACECHECK_MATCH 41 https://news.bitcoin.com/tag/cardano-development/
+FACECHECK_MATCH 41 https://suffolknews.co.uk/bury-st-edmunds/news/towns-labour-party-asks-council-not-to-remove-annual-grant-9300339/
+FACECHECK_MATCH 41 https://foxnews.com/media/katy-tur-las-vegas-survival-fittest-coronavirus
+FACECHECK_MATCH 41 https://twitter.com/Nogoalnoble
+FACECHECK_MATCH 41 https://orangefl.mugshots.zone/boyd-chadwick-lee-mugshot-11-30-2023/
+FACECHECK_MATCH 41 https://twitter.com/jackbuckby
+FACECHECK_MATCH 41 https://thenews.com.pk/latest/1221996-doja-cat-and-joseph-quinn-spark-dating-rumors-after-cozy-london-stroll
+FACECHECK_MATCH 41 https://health.usnews.com/doctors/cormac-prosser-3326965
+FACECHECK_MATCH 41 https://recentlybooked.com/FL/Escambia/JACOB-HOLDING~16_ECC22JBN003449
+FACECHECK_MATCH 41 https://abcnews.go.com/Health/WorldNews/ebola-stricken-american-doctor-turn-worse/story?id=24791024
+FACECHECK_MATCH 40 https://thesun.co.uk/tvandshowbiz/29972516/stranger-things-joseph-quinn-holds-hands-girlfriend-doja-cat/
+FACECHECK_MATCH 40 https://thesun.ie/tvandshowbiz/13651016/stranger-things-joseph-quinn-holds-hands-girlfriend-doja-cat/
+FACECHECK_MATCH 40 https://tradewindsnews.com/tankers/transatlantic-diesel-tanker-trade-has-some-road-to-run-yet-despite-green-shifts-poten-says/2-1-1703952
+FACECHECK_MATCH 40 https://abcnews.go.com/GMA/News/video/american-citizen-killed-west-bank-97514065
+FACECHECK_MATCH 40 https://instagram.com/audreyouak
+FACECHECK_MATCH 40 https://instagram.com/gracie_gates_
+FACECHECK_MATCH 40 https://twitter.com/torok_adam
+FACECHECK_MATCH 40 https://tradewindsnews.com/tag/leif_o_hoegh
+FACECHECK_MATCH 40 https://instagram.com/soyrafacalle
+FACECHECK_MATCH 40 https://twitter.com/CarsonPickron
+FACECHECK_MATCH 40 https://eunews.it/tag/m5s-europa/page/3/
+FACECHECK_MATCH 40 https://instagram.com/byronpopemmc
+FACECHECK_MATCH 40 https://health.usnews.com/doctors/frank-buttacavoli-924223
+FACECHECK_MATCH 40 https://www.fxcryptonews.com/cardano-founder-addresses-the-u-s-house-of-reps-offers-favourable-regulations-for-regulating-20000-cryptocurrencies/
+FACECHECK_MATCH 40 https://www.news.com.au/lifestyle/real-life/news-life/charity-fundraisers-sinking-to-new-lows-to-earn-their-commissions/news-story/588622b0d31d5bd0fd53050f4c495eae
+FACECHECK_MATCH 40 https://basketnews.com/news-186962-darvin-ham-hints-about-lebron-james-comeback-during-regular-season.html
+FACECHECK_MATCH 40 https://twitter.com/BobBraunsLedger
+FACECHECK_MATCH 40 https://offenderradar.com/offender-details/alexander-p-delorenzo-of-west-virginia-1159176
+FACECHECK_MATCH 40 https://twitter.com/JordanHeaton19
+FACECHECK_MATCH 40 https://au.news.yahoo.com/hear-figma-founder-ceo-dylan-123844823.html
+FACECHECK_MATCH 40 https://news.bg/author/ivo-aleksiev
+FACECHECK_MATCH 40 https://twitter.com/botello
+FACECHECK_MATCH 40 https://news.meaww.com/gilbert-villareal-arizona-man-sentenced-to-50-years-for-fatal-stabbing-of-estranged-pregnant-wife-sheila-lomes
+FACECHECK_MATCH 40 https://twitter.com/timhatton
+FACECHECK_MATCH 40 https://news.robadadonne.it/che-fine-hanno-fatto-protagonisti-di-mamma-ho-perso-laereo/
+FACECHECK_MATCH 40 https://twitter.com/wmlutz
+FACECHECK_MATCH 40 https://katounanews.gr/b-gyros-dimotikon-eklogon-sto-dimo-mas-grafei-o-thodoros-tzavalas/
+FACECHECK_MATCH 40 https://twitter.com/McKennaEwen
+FACECHECK_MATCH 40 https://www.lifesitenews.com/news/german-priest-touts-positive-effects-of-pornography-for-celibate-clergy-in-interview-on-church-website/
+FACECHECK_MATCH 40 https://palmbeachfl.mugshots.zone/collins-jack-august-mugshot-09-24-2021/
+FACECHECK_MATCH 40 https://energylivenews.com/2015/04/01/guest-blog-michael-parker-uk-wind-power-time-for-action/
+FACECHECK_MATCH 40 https://hm-news.co.il/343733/
+FACECHECK_MATCH 40 https://packagingnews.co.uk/design/equator-promotes-simon-thompson-to-global-director-of-photography-16-04-2024
+FACECHECK_MATCH 40 https://thesun.ie/tvandshowbiz/14290912/u2-adam-clayton-tears-rte-miami-showband-deaths/
+FACECHECK_MATCH 40 https://collintx.mugshots.zone/debruycker-joshua-michael-mugshot-07-16-2022/
+FACECHECK_MATCH 40 https://malaysia.news.yahoo.com/chris-evans-explains-why-refuses-125357834.html
+FACECHECK_MATCH 40 https://allnews.ch/advanced_search/%3C?f%5B0%5D=content_type%3Aarticle&f%5B1%5D=tags%3Ar%C3%A9sultats&page=380
+FACECHECK_MATCH 40 https://instagram.com/tinaskies
+FACECHECK_MATCH 40 https://pokernews.com/tours/partypoker-live/2017-caribbean-poker-party-festival/millions-main-event/chips.194380.htm
+FACECHECK_MATCH 40 https://gulfnews.com/entertainment/hollywood/meet-gerard-butler-in-dubai-1.1466398
+FACECHECK_MATCH 40 https://azernews.az/tags/25629/
+FACECHECK_MATCH 40 https://oe24.at/leute/kultur/tarantino-film-ist-koscherer-porno/535216
+FACECHECK_MATCH 40 https://1news.co.nz/2022/08/24/opinion-parliament-set-to-change-for-gaurav-sharma/
+FACECHECK_MATCH 40 https://salineks.mugshots.zone/allen-emma-elyse-mugshot-11-20-2023/
+FACECHECK_MATCH 40 https://www.facebook.com/tara.abbott.79
+FACECHECK_MATCH 40 https://www.mainlinemedianews.com/2019/01/16/main-line-student-of-the-week-andrew-brose-the-shipley-school/
+FACECHECK_MATCH 40 https://twitter.com/KsenpaSos
+FACECHECK_MATCH 40 https://buzzfeednews.com/article/stephaniesoteriou/joseph-quinn-stranger-things-final-season-eddie-munson-hair
+FACECHECK_MATCH 40 https://news.yahoo.com/oklahoma-bomb-suspect-worried-isis-120911969.html
+FACECHECK_MATCH 40 https://alephnews.ro/inregistrare/ivan-traieste-vesnic-in-stefan-cel-mare/
+FACECHECK_DONE
+==== finished ====

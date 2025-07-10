@@ -1,0 +1,5 @@
+==== run 2025-07-04_11-39-26 ====
+[1] takePicture.py …
+[ WARN:0@0.823] global cap.cpp:480 cv::VideoCapture::open VIDEOIO(DSHOW): backend is generally available but can't be used to capture by index
+ERROR: cannot open webcam 0
+ERROR: capture failed.

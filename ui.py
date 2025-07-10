@@ -122,6 +122,32 @@ class AutomationUI(QWidget):
         self.dots = 0
 
     # ---------------- slots ----------------
+
+        warning = (
+            "Warning – running this application will submit a photograph to "
+            "external services. These services will extract biometric face "
+            "templates to aggregate publicly available information about the "
+            "subject.<br><br>Please continue only if:<br>"
+            "  1) You are aged 18 or over;<br>"
+            "  2) You consent to this data sharing; and<br>"
+            "  3) You can provide <i>explicit consent</i> as defined by the UK "
+            'Information Commissioner’s Office (see:&nbsp;'
+            '<a href="https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/'
+            'lawful-basis/consent/what-is-valid-consent/">ICO – valid consent</a>).'
+        )
+
+        box = QMessageBox(self)
+        box.setWindowTitle("Consent required")
+        box.setIcon(QMessageBox.Icon.Warning)
+        box.setText(warning)
+        btn_continue = box.addButton("Continue", QMessageBox.ButtonRole.AcceptRole)
+        btn_exit     = box.addButton("Exit",     QMessageBox.ButtonRole.RejectRole)
+        box.exec()
+
+        if box.clickedButton() is btn_exit:
+            QApplication.instance().quit()
+            return                      # do nothing / stay in UI
+        
     def start_automation(self):
         self.log_box.clear(); self.result_box.clear();
         self.status_label.setText("Searching"); self.status_label.setStyleSheet("color:lime;border:2px solid lime;padding:4px")
