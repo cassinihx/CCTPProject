@@ -1,0 +1,115 @@
+==== run 2025-07-10_14-24-28 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+Cookies accepted!
+Searching for the 'Upload Photos' button...
+'Upload Photos' button clicked!
+Searching for the hidden file input...
+File input found! Uploading image...
+Image uploaded successfully!
+Waiting before checking checkboxes to prevent bot detection...
+Searching for checkboxes...
+Checkboxes not found.
+[3] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 87
+FACECHECK_MATCH 49 https://instagram.com/leolsu85
+FACECHECK_MATCH 46 https://vtcnews.vn/hlv-chau-au-o-tuyen-viet-nam-nguoi-len-dinh-dong-nam-a-ke-mat-viec-sau-2-thang-ar862589.html
+FACECHECK_MATCH 46 https://health.usnews.com/doctors/vladimir-chachanidze-409111
+FACECHECK_MATCH 46 https://instagram.com/gretchryan71
+FACECHECK_MATCH 46 https://newrivervalleyjailva.mugshots.zone/nelson-jason-neil-mugshot-07-17-2023/
+FACECHECK_MATCH 46 https://twitter.com/gendereviI
+FACECHECK_MATCH 45 https://bringmethenews.com/minnesota-news/convicted-child-molester-sentenced-for-failing-to-register-as-sex-offender-in-minnesota
+FACECHECK_MATCH 45 https://balkangreenenergynews.com/south-eastern-europe-has-a-power-problem-cesec-can-help-solve-it/
+FACECHECK_MATCH 45 https://balkangreenenergynews.com/maja-turkovic-leader-of-energy-transition/
+FACECHECK_MATCH 45 https://balkangreenenergynews.com/category/feature-articles-by-energy-climate-and-environmental-experts/
+FACECHECK_MATCH 45 https://vtcnews.vn/sai-lam-cua-hlv-troussier-chien-luoc-tre-hoa-cuc-doan-lang-quen-quang-hai-ar860556.html
+FACECHECK_MATCH 45 https://vtcnews.vn/hlv-troussier-dang-tam-thu-nhan-trach-nhiem-noi-loi-xin-loi-cdv-viet-nam-ar862976.html
+FACECHECK_MATCH 45 https://netnews.com.mt/2017/04/20/kemm-ghaddew-flus-minghand-tifla-ta-aliyev/
+FACECHECK_MATCH 45 https://windownews.co.uk/bfrc-welcomes-lee-dearman/
+FACECHECK_MATCH 45 https://twitter.com/timhatton
+FACECHECK_MATCH 45 https://www.foxnews.com/us/florida-man-allegedly-hid-dead-body-inside-hotel-room-closet-next-guest-didnt-notice-officials
+FACECHECK_MATCH 45 https://es.bitcoinethereumnews.com/tech/cardano-founder-explains-his-position-on-ledgers-controversial-upgrade/
+FACECHECK_MATCH 45 https://instagram.com/fullsized
+FACECHECK_MATCH 44 https://eurofestivalnews.com/2024/04/06/rivedi-angelina-mango-barcelona-eurovision-party-2024/
+FACECHECK_MATCH 44 https://eurofestivalnews.com/2022/02/05/sanremo-2022-gianni-morandi-e-jovanotti-vincono-la-serata-cover/
+FACECHECK_MATCH 44 https://eurofestivalnews.com/2022/03/22/amelia-sasha-eurovision/
+FACECHECK_MATCH 44 https://bringmethenews.com/minnesota-news/bus-driver-pleads-guilty-to-driving-drunk-with-35-ymca-campers-on-board
+FACECHECK_MATCH 44 https://twitter.com/JHugoEnterprise
+FACECHECK_MATCH 44 https://calhounal.mugshots.zone/proctor-jacob-allan-mugshot-05-26-2024/
+FACECHECK_MATCH 44 https://sg.news.yahoo.com/6-new-ways-to-wear-red-1501817388556342.html
+FACECHECK_MATCH 44 https://twitter.com/BobBraunsLedger
+FACECHECK_MATCH 44 https://www.rainews.it/tgr/toscana/video/2024/04/morte-di-mattia-giani-indagini-per-omicidio-colposo-798dd4dc-ff5e-4661-b54c-b1acb9cda056.html
+FACECHECK_MATCH 44 https://nbcnews.com/id/wbna33399706
+FACECHECK_MATCH 44 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 44 https://twitter.com/ChrisPotter84
+FACECHECK_MATCH 44 https://www.facebook.com/griffin.duvall
+FACECHECK_MATCH 44 https://health.usnews.com/doctors/theron-andrus-3234973
+FACECHECK_MATCH 44 https://salineks.mugshots.zone/allen-emma-elyse-mugshot-11-20-2023/
+FACECHECK_MATCH 44 https://twitter.com/BryanChrisBrown
+FACECHECK_MATCH 44 https://thecanadianpressnews.ca/atlantic/as-n-s-domestic-abuse-rises-daughter-of-murdered-woman-seeks-more-open-discussion/article_3fefa508-00c2-513e-bb26-09aa24c00aea.html
+FACECHECK_MATCH 44 https://51news.it/cultura/801-lumezzane-e-rezzato-e-musica-da-bere
+FACECHECK_MATCH 43 https://twitter.com/gcclark
+FACECHECK_MATCH 43 https://surabaya.tribunnews.com/2020/11/03/arti-mimpi-melihat-banjir-besar-pertanda-baik-ini-makna-mimpi-banjir-lainnya
+FACECHECK_MATCH 43 https://boonein.mugshots.zone/burdine-austin-b-mugshot-11-11-2022/
+FACECHECK_MATCH 43 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 43 https://abcnews.go.com/Health/WorldNews/ebola-stricken-american-doctor-turn-worse/story?id=24791024
+FACECHECK_MATCH 43 https://twitter.com/PaulEremenko
+FACECHECK_MATCH 42 https://www.angelnews.co.uk/blog/food-drink/winefi-secures-400k-funding-with-strong-investor-demand/
+FACECHECK_MATCH 42 https://www.angelnews.co.uk/blog/food-drink/wine-platform-winefi-partners-with-timeless-investments/
+FACECHECK_MATCH 42 https://wrganews.com/2025/01/30/lindale-and-calhoun-men-among-three-arrested-in-multi-store-shoplifting-spree/
+FACECHECK_MATCH 42 https://coosavalleynews.com/2025/01/lindale-and-calhoun-men-among-three-arrested-in-target-shoplifting-spree/
+FACECHECK_MATCH 42 https://toronto.citynews.ca/2022/03/17/explainer-could-ukrainian-neutrality-help-end-russia-war/
+FACECHECK_MATCH 42 https://etrurianews.it/2024/05/26/civitavecchia-elezioni-la-famiglia-de-paolis-si-e-ripresa-forza-italia/
+FACECHECK_MATCH 42 https://www.channelnews.mu/2024/04/laccusation-provisoire-de-conspiracy-rayee-contre-danesh-ellayah/
+FACECHECK_MATCH 42 https://instagram.com/gracie_gates_
+FACECHECK_MATCH 42 https://thesun.ie/tvandshowbiz/2553351/eastenders-and-carry-on-star-dame-barbara-windsor-diagnosed-with-alzheimers-aged-80/
+FACECHECK_MATCH 42 https://twitter.com/Mapolino
+FACECHECK_MATCH 42 https://news.com.au/national/queensland/brisbane-chef-peter-milos-murder-sheds-light-on-complex-web-of-crime/news-story/03c818be44501ffebf8f68d4ac21a836
+FACECHECK_MATCH 42 https://ynetnews.com/articles/0,7340,L-5112746,00.html
+FACECHECK_MATCH 42 https://ko.bitcoinethereumnews.com/bitcoin/charles-hoskinson-says-bitcoin-should-adopt-cardanos-ofelimous-protocol-to-survive/
+FACECHECK_MATCH 42 https://twitter.com/jrjohnraeder
+FACECHECK_MATCH 42 https://www.fxcryptonews.com/cardano-founder-addresses-the-u-s-house-of-reps-offers-favourable-regulations-for-regulating-20000-cryptocurrencies/
+FACECHECK_MATCH 42 https://offenderradar.com/offender-details/alexander-p-delorenzo-of-west-virginia-1159176
+FACECHECK_MATCH 42 https://twitter.com/SFDC_r
+FACECHECK_MATCH 42 https://charlottefl.mugshots.zone/hipps-dakota-mugshot-07-16-2024/
+FACECHECK_MATCH 42 https://twitter.com/kaitlyn6277
+FACECHECK_MATCH 42 https://spartanburgsc.mugshots.zone/ansel-reid-gossett-mugshot-02-17-2022/
+FACECHECK_MATCH 42 https://twitter.com/aminoacidhead
+FACECHECK_MATCH 42 https://twitter.com/d_hard24
+FACECHECK_MATCH 42 https://twitter.com/brantwilson4
+FACECHECK_MATCH 42 https://collintx.mugshots.zone/penley-dennis-ray-mugshot-10-09-2023/
+FACECHECK_MATCH 42 https://twitter.com/WillR56
+FACECHECK_MATCH 42 https://bc.ctvnews.ca/mobile/surrey-massage-therapist-banned-from-treating-female-patients-after-sexual-misconduct-complaint-1.6296434?cache=?contactForm=true
+FACECHECK_MATCH 42 https://health.usnews.com/doctors/margaret-happel-300165
+FACECHECK_MATCH 42 https://www.inkfreenews.com/2019/05/10/kirt-w-weakman-updated/
+FACECHECK_MATCH 42 https://manchestereveningnews.co.uk/news/uk-news/siblings-jailed-manslaughter-after-feeding-20777917
+FACECHECK_MATCH 42 https://twitter.com/CristoDulom
+FACECHECK_MATCH 42 https://twitter.com/gazlfc71
+FACECHECK_MATCH 42 https://twitter.com/MooreLab
+FACECHECK_MATCH 42 https://twitter.com/KingTurck
+FACECHECK_MATCH 42 https://twitter.com/BeauGiles
+FACECHECK_MATCH 42 https://fox21news.com/news/crime/suspect-wanted-for-armed-kidnapping-captured-in-palmer-park/
+FACECHECK_MATCH 42 https://instagram.com/milwin

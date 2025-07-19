@@ -1,0 +1,112 @@
+==== run 2025-07-10_14-13-59 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+Cookies accepted!
+Searching for the 'Upload Photos' button...
+'Upload Photos' button clicked!
+Searching for the hidden file input...
+File input field not found.
+[3] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_MATCH 70 https://health.usnews.com/doctors/august-emford-1513548
+FACECHECK_MATCH 63 https://instagram.com/leolsu85
+FACECHECK_MATCH 63 https://instagram.com/gretchryan71
+FACECHECK_MATCH 60 https://www.news.uct.ac.za/article/-2009-05-13-new-book-illuminates-naturalism-and-philosophys-science-connection
+FACECHECK_MATCH 60 https://www.israelnationalnews.com/news/239625
+FACECHECK_MATCH 60 https://twitter.com/Le202nard
+FACECHECK_MATCH 60 https://manchestereveningnews.co.uk/news/greater-manchester-news/former-prisoner-went-timpson-apprentice-20310484
+FACECHECK_MATCH 59 https://twitter.com/KingTurck
+FACECHECK_MATCH 59 https://twitter.com/drkamalkantsahu
+FACECHECK_MATCH 58 https://www.sienanews.it/magazine/focus/donofrio-sel-noi-parliamo-di-temi-i-tatticismi-interni-al-pd-fanno-male-a-tutta-la-citta/
+FACECHECK_MATCH 58 https://sienanews.it/magazine/focus/lintervento-del-candidato-di-sel-alle-primarie-a-sindaco-pasquale-donofrio/
+FACECHECK_MATCH 58 https://thehockeynews.com/nhl/new-york-islanders/latest-news/patrick-roy-tony-deangelo-new-york-islanders-carolina-hurricanes-2024-stanley-cup-playoffs
+FACECHECK_MATCH 58 https://thehockeynews.com/nhl/new-york-islanders/latest-news/tampa-bay-lightning-new-york-islanders-power-play-kyle-palmieri-anders-lee-nikita-kucherov
+FACECHECK_MATCH 58 https://instagram.com/pheenips
+FACECHECK_MATCH 58 https://news.bg/author/ivo-aleksiev
+FACECHECK_MATCH 58 https://browardfl.mugshots.zone/allen-russell-mugshot-05-31-2021/
+FACECHECK_MATCH 58 https://www.facebook.com/griffin.duvall
+FACECHECK_MATCH 58 https://highgroundnews.com/focusareas/technologyandinnovation.aspx?page=9
+FACECHECK_MATCH 57 https://ca.news.yahoo.com/man-charged-sexually-battering-kid-220522624.html
+FACECHECK_MATCH 57 https://abcnews.al/misteri-i-zbulimit-deshmia-e-rralle-pjeter-arbnori-me-tregoi-njeriun-qe-na-spiunoi/
+FACECHECK_MATCH 57 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 56 https://www.sienanews.it/magazine/focus/donofrio-lingerenza-politica-e-linadeguatezza-dei-vertici-sono-stati-i-problemi-di-banca-mps/
+FACECHECK_MATCH 56 https://sienanews.it/magazine/focus/video-le-parole-di-pasquale-donofrio-sel-al-consiglio-comunale-di-siena/
+FACECHECK_MATCH 56 https://porncorporation.com/tag/cute/page/217/?from_index=81
+FACECHECK_MATCH 56 https://porncorporation.com/tag/natasha-starr/
+FACECHECK_MATCH 56 https://pornpics.world/images/private-belle-claire-attractive-czech-sexbabe-naughty-images
+FACECHECK_MATCH 56 https://yespornpics.com/sex/anal-blowjob-hardcore/71
+FACECHECK_MATCH 56 https://thehockeynews.com/nhl/new-york-islanders/latest-news/new-york-islanders-philadelphia-flyers-2024-25-metropolitan-division
+FACECHECK_MATCH 56 https://scvnews.com/csun-prof-wins-best-business-book-award-in-france/
+FACECHECK_MATCH 56 https://twitter.com/PassItToMenges
+FACECHECK_MATCH 56 https://medium.com/@BigChungusCrypto/my-experience-with-a-pig-butchering-romance-scammer-operating-oexbake-crypto-exchange-websites-a82b0baa65aa
+FACECHECK_MATCH 56 https://www.ticinonews.ch/ticino/nuovo-capo-per-la-sezione-della-protezione-dellaria-dellacqua-e-del-suolo-373015
+FACECHECK_MATCH 56 https://asamnews.com/2013/11/08/san-francisco-chronicle-rep-honda-caught-catnapping/
+FACECHECK_MATCH 56 https://news.cision.com/no?k=S%C3%B8lvberget%2CS%C3%B8lvberget&pageIx=2
+FACECHECK_MATCH 56 https://surabaya.tribunnews.com/2020/11/03/arti-mimpi-melihat-banjir-besar-pertanda-baik-ini-makna-mimpi-banjir-lainnya
+FACECHECK_MATCH 56 https://manchestereveningnews.co.uk/incoming/gallery/collision-high-impact-drama-791382
+FACECHECK_MATCH 56 https://twitter.com/colin_swenson
+FACECHECK_MATCH 56 https://www.agrinionews.gr/apeilise-dimosiografo-o-pateras-ilia-michoy-tha-amoliso-to-skyli-fyge-ti-lene-oi-sygchorianoi/
+FACECHECK_MATCH 56 https://1news.co.nz/2022/08/24/opinion-parliament-set-to-change-for-gaurav-sharma/
+FACECHECK_MATCH 56 https://thesun.co.uk/tvandshowbiz/11694313/normal-people-paul-mescal-shirtless-chain/
+FACECHECK_MATCH 56 https://australianjewishnews.com/first-muslim-on-supreme-court/
+FACECHECK_MATCH 55 https://www.tradewindsnews.com/finance/credit-pledge-hoegh-lng-hopes-to-pump-in-100m-of-equity-to-avoid-bond-redemption/2-1-1186195
+FACECHECK_MATCH 55 https://twitter.com/mark_fraenkel
+FACECHECK_MATCH 55 https://twitter.com/ForeverKeogh
+FACECHECK_MATCH 55 https://escorenews.com/en/dota-2/player/sneyking
+FACECHECK_MATCH 55 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 55 https://instagram.com/roniol07
+FACECHECK_MATCH 55 https://sienanews.it/magazine/focus/donofrio-vogliamo-una-citta-partecipata-digitalizzata-e-sostenibile/
+FACECHECK_MATCH 55 https://twitter.com/TubaCariveau
+FACECHECK_MATCH 55 https://twitter.com/Shreedhan
+FACECHECK_MATCH 54 https://hot.com/jp/tokyo/escorts/gallery/44-33004681/m-embF
+FACECHECK_MATCH 54 https://hot.com/jp/okinawa/escorts/gallery/44-33004681/m-WHbF
+FACECHECK_MATCH 54 https://twitter.com/cldeboy
+FACECHECK_MATCH 54 https://twitter.com/JPignatiello
+FACECHECK_MATCH 54 https://instagram.com/da_v_id_84
+FACECHECK_MATCH 54 https://instagram.com/fjmenendez1975
+FACECHECK_MATCH 54 https://twitter.com/TheMattGarman
+FACECHECK_MATCH 54 https://dominonews.it/politica/marche-tolentino-civoco22-sul-cda-dell-asp-e-cambiata-la-forma-ma-non-la-sostanza
+FACECHECK_MATCH 54 https://offenderradar.com/offender-details/kenneth-stacy-wallin-of-georgia-1089761
+FACECHECK_MATCH 54 https://talkingbiznews.com/media-moves/bowie-named-acting-senior-food-editor-at-tesco-magazine/
+FACECHECK_MATCH 54 https://twitter.com/katavasios
+FACECHECK_MATCH 54 https://cbsnews.com/pictures/fidel-ruz-castro/11/
+FACECHECK_MATCH 54 https://www.minotdailynews.com/news/local-news/2023/11/gokey-brings-family-legacy-into-21st-century/
+FACECHECK_MATCH 54 https://offenderradar.com/offender-details/bobby-s-george-of-hawaii-363156
+FACECHECK_MATCH 54 https://www.instagram.com/oltsengripshi/p/DIUMChdtLKm/
+FACECHECK_MATCH 54 https://wfxb.com/2020/06/22/mugshots-june-19th-21st-2020/gall-christopher-scott-public-disorderly/
+FACECHECK_MATCH 54 https://www.rainews.it/maratona/2022/06/live-da-bruxelles-riunione-dei-leader-dellue-e-dei-balcani-occidentali-5c70535b-c049-47f8-8d31-80f65458bb51.html
+FACECHECK_MATCH 54 https://thesun.co.uk/tv/32412896/love-island-feud-explodes-ciaran-cryptic-swipe-nicole/
+FACECHECK_MATCH 54 https://twitter.com/sam_parks1
+FACECHECK_MATCH 54 https://foxnews.com/media/katy-tur-las-vegas-survival-fittest-coronavirus
+FACECHECK_MATCH 54 https://twitter.com/kambiz
+FACECHECK_MATCH 54 https://thesun.ie/tvandshowbiz/921148/tom-kitchin-masterchef/
+FACECHECK_MATCH 54 https://twitter.com/DicksComedy
+FACECHECK_MATCH 54 https://twitter.com/JamesLamming
+FACECHECK_MATCH 54 https://health.usnews.com/doctors/theron-andrus-3234973
+FACECHECK_MATCH 54 https://news.leavitt.com/page/56/?m=0
+FACECHECK_MATCH 54 https://manchestereveningnews.co.uk/news/uk-news/siblings-jailed-manslaughter-after-feeding-20777917
+FACECHECK_MATCH 54 https://www.facebook.com/tara.abbott.79
+FACECHECK_MATCH 54 https://twitter.com/VacekHannah
+FACECHECK_MATCH 54 https://ticinonews.ch/ospiti/rene-grossi-la-neve-che-davano-da-tempo-ha-creato-ancora-grossi-problemi-314553
+FACECHECK_MATCH 54 https://twitter.com/CoachRamsay1
+FACECHECK_MATCH 53 https://britishdealernews.co.uk/news/uk/new-finance-boss-at-warranty-firm-opteven/

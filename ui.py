@@ -1,4 +1,4 @@
-import sys, os, json, subprocess, datetime
+import sys, os, json, subprocess, datetime, psutil
 from PyQt6.QtWidgets import (
     QApplication, QWidget, QPushButton, QLabel, QTextEdit, QFileDialog,
     QVBoxLayout, QMessageBox, QDialog, QSpinBox, QLineEdit, QCheckBox, QFormLayout, QHBoxLayout
@@ -62,23 +62,47 @@ class ConfigDialog(QDialog):
             }
         }
 
-
 class Worker(QThread):
-    out = pyqtSignal(str)
-    err = pyqtSignal(str)
+    out  = pyqtSignal(str)
+    err  = pyqtSignal(str)
     done = pyqtSignal()
+
+    def __init__(self):
+        super().__init__()
+        self.proc: subprocess.Popen | None = None 
 
     def run(self):
         if not os.path.exists(RUN_SCRIPT):
             self.err.emit(f"ERROR: {RUN_SCRIPT} not found")
             return
-        proc = subprocess.Popen([
-            sys.executable, RUN_SCRIPT
-        ], stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
-           text=True, encoding="utf-8", bufsize=1)
-        for line in proc.stdout:
+
+        creation = subprocess.CREATE_NEW_PROCESS_GROUP if os.name == "nt" else 0
+        self.proc = subprocess.Popen(
+            [sys.executable, RUN_SCRIPT],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.STDOUT,
+            text=True,
+            encoding="utf-8",
+            bufsize=1,
+            creationflags=creation
+        )
+
+        for line in self.proc.stdout:
             self.out.emit(line.rstrip())
-        proc.wait(); self.done.emit()
+
+        self.proc.wait()
+        self.done.emit()
+
+    def stop(self):
+        if not self.proc or self.proc.poll() is not None:
+            return            # already finished
+        try:
+            parent = psutil.Process(self.proc.pid)
+            for child in parent.children(recursive=True):
+                child.kill()
+            parent.kill()
+        except Exception:
+            pass
 
 class AutomationUI(QWidget):
     def __init__(self):
@@ -234,6 +258,36 @@ class AutomationUI(QWidget):
         if dlg.exec():
             return te.toPlainText(), True
         return "", False
+    
+    def closeEvent(self, event):
+    # 1. stop animation
+        if self.timer.isActive():
+            self.timer.stop()
+
+    # 2. release Pixmap → unlock file
+        self.image_label.clear()
+        QApplication.processEvents()          # force UI repaint
+
+    # 3. terminate subprocess group
+    try:
+        if hasattr(self, "thread") and self.thread.isRunning():
+            self.thread.stop()
+            self.thread.wait(5000)        # up to 5 s
+    except Exception:
+        pass
+
+    # 4. delete captured JPG (retry a couple of times)
+    img = os.path.abspath(os.path.join("Source_Images", "Webcam_Capture.jpg"))
+    for _ in range(5):
+        try:
+            if os.path.exists(img):
+                os.remove(img)
+            break
+        except PermissionError:
+            import time; time.sleep(0.5)
+    
+    def closeEvent(self, event):
+        event.accept()
 
 if __name__ == "__main__":
     app = QApplication(sys.argv)

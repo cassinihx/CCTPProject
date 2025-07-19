@@ -1,0 +1,109 @@
+==== run 2025-07-10_14-09-12 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+No cookie popup detected. Continuing...
+Searching for the 'Upload Photos' button...
+'Upload Photos' button not found.
+[3] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 95
+FACECHECK_MATCH 51 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 50 https://es.bitcoinethereumnews.com/tech/cardano-founder-explains-his-position-on-ledgers-controversial-upgrade/
+FACECHECK_MATCH 48 https://tradewindsnews.com/finance/marine-fuel-trading-firm-shipergy-gets-15m-credit-facility-with-dnb/2-1-1617773
+FACECHECK_MATCH 47 https://twitter.com/drkamalkantsahu
+FACECHECK_MATCH 45 https://instagram.com/pheenips
+FACECHECK_MATCH 45 https://twitter.com/sam_parks1
+FACECHECK_MATCH 45 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 44 https://tradewindsnews.com/ship-management/lqm-chief-bunker-derivatives-market-still-a-big-players-game/2-1-813015
+FACECHECK_MATCH 44 https://newhanovernc.mugshots.zone/stark-james-keith-mugshot-08-24-2021/
+FACECHECK_MATCH 44 https://israelnationalnews.com/en/news/391503
+FACECHECK_MATCH 43 https://twitter.com/Cub0fJoe
+FACECHECK_MATCH 43 https://twitter.com/KingTurck
+FACECHECK_MATCH 42 https://hot.com/es/barcelona/escorts/gallery/34-632-59-31-99/m-AphZ
+FACECHECK_MATCH 42 https://hot.com/es/barcelona/escorts/gallery/34-632-59-31-99/m-o4eL
+FACECHECK_MATCH 42 https://salussolanews.it/2015/11/25/sabato-28-novembre-ore-09-00-riunione-del-consiglio-comunale-con-l-assestamento-del-bilancio-2015/
+FACECHECK_MATCH 42 https://collintx.mugshots.zone/robinson-logan-brock-mugshot-07-25-2022/
+FACECHECK_MATCH 42 https://jamestownsun.com/news/high-risk-sex-offender-in-jamestown
+FACECHECK_MATCH 42 https://varesenews.it/2024/05/giorgio-gori-a-malnate-parlare-di-salute-e-sanita-territoriale/1918956/
+FACECHECK_MATCH 42 https://capegirardeaumo.mugshots.zone/juanita-kerr-mugshot-12-15-2023/
+FACECHECK_MATCH 42 https://www.instagram.com/eisansone/p/DF81G73vdAY/
+FACECHECK_MATCH 42 https://international.sindonews.com/berita/1374310/45/politikus-yang-punya-masa-lalu-kelam-ada-yang-divonis-sakit-jiwa
+FACECHECK_MATCH 42 https://manchestereveningnews.co.uk/news/greater-manchester-news/i-paid-in-good-faith---992526
+FACECHECK_MATCH 41 https://legnanonews.com/cronaca/2019/06/17/arresti_a_legnano_attesa_la_decisione_sulla_scarcerazione_di_cozzi/929082/
+FACECHECK_MATCH 41 https://health.usnews.com/doctors/psoriasis/denver-co
+FACECHECK_MATCH 41 https://health.usnews.com/best-hospitals/area/co/parker-adventist-hospital-6840022
+FACECHECK_MATCH 41 https://thenationalnews.com/arts-culture/retired-formula-one-driver-nico-rosberg-on-his-go-to-watch-favourite-type-of-car-and-more-1.35461
+FACECHECK_MATCH 41 https://thenews.com.pk/print/1271317-talks-deadline-may-be-extended-if-headway-made-shibli
+FACECHECK_MATCH 41 https://israelnationalnews.com/news/365967
+FACECHECK_MATCH 41 https://plus.polskanews.pl/tag/pilka-nozna/4
+FACECHECK_MATCH 41 https://meionews.com/entretenimento/famosos
+FACECHECK_MATCH 41 https://www.facebook.com/jace.longenecker
+FACECHECK_MATCH 41 https://aprov.co.uk/escorts/high-class-blonde-girls-alina.htm
+FACECHECK_MATCH 41 https://www.offenderradar.com/offender-details/brandon-myles-crozier-of-colorado-1319628
+FACECHECK_MATCH 41 https://ilfattoquotidiano.it/2024/11/13/palermo-polemica-sul-nuovo-direttore-del-teatro-biondo-vicino-a-fdi-scambio-di-poltrone-attesa-per-le-nomine-al-massimo/7766301/
+FACECHECK_MATCH 41 https://escambiafl.mugshots.zone/gable-matthew-stephen-mugshot-08-31-2023/
+FACECHECK_MATCH 41 https://kroxam.com/crookston-police-department-notification-of-a-level-iii-sex-offender/
+FACECHECK_MATCH 41 https://news.err.ee/650084/mp-welcomes-apparent-end-of-ilves-esque-political-correctness
+FACECHECK_MATCH 41 https://instagram.com/zelrolfox
+FACECHECK_MATCH 41 https://dallastx.mugshots.zone/mcmillin-john-mugshot-06-01-2024/
+FACECHECK_MATCH 41 https://www.mcnews.com.au/2024-dakar-rally-stage6-day2-results-report/
+FACECHECK_MATCH 41 https://jedinews.com/events/articles/george-lucas-endows-haskell-wexler-chair-documentary-usc-school-cinematic-arts/
+FACECHECK_MATCH 41 https://twitter.com/KennedyLNorton
+FACECHECK_MATCH 41 https://news.emory.edu/stories/2024/07/hs_max_cooper_17_07_2024/story.html
+FACECHECK_MATCH 41 https://cbsnews.com/boston/news/florida-appeals-court-to-rehear-john-connollys-murder-case/
+FACECHECK_MATCH 41 https://twitter.com/bethbowser
+FACECHECK_MATCH 41 https://thenews.com.pk/print/1237877-plea-for-shibli-faraz-s-transit-bail-withdrawn
+FACECHECK_MATCH 40 https://health.usnews.com/doctors/joseph-telliard-1217428
+FACECHECK_MATCH 40 https://health.usnews.com/doctors/kristi-jones-1385527
+FACECHECK_MATCH 40 https://news.cornellcollege.edu/report/issue/2016-06-summer/
+FACECHECK_MATCH 40 https://news.cornellcollege.edu/report/issue/2016-06-summer/last-word/
+FACECHECK_MATCH 40 https://legnanonews.com/tag-personaggio/franco-brumana/
+FACECHECK_MATCH 40 https://thenationalnews.com/arts/retired-formula-one-driver-nico-rosberg-on-his-go-to-watch-favourite-type-of-car-and-more-1.35461
+FACECHECK_MATCH 40 https://thenews.com.pk/print/1234677-rulers-toying-with-constitution-prolonging-cases-shibli
+FACECHECK_MATCH 40 https://twitter.com/cldeboy
+FACECHECK_MATCH 40 https://news.uoguelph.ca/2010/05/robo-gut-mimics-your-gut/
+FACECHECK_MATCH 40 https://nbcnews.com/video/mtp-panel-winners-and-losers-of-the-2014-campaigns-351337539930
+FACECHECK_MATCH 40 https://ladys.one/it/escort-berlino/bella-778-i857056
+FACECHECK_MATCH 40 https://twitter.com/Psheraf
+FACECHECK_MATCH 40 https://ynetnews.com/culture/article/hkd00z2oic
+FACECHECK_MATCH 40 https://escambiafl.mugshots.zone/flores-deven-alexis-mugshot-10-24-2023/
+FACECHECK_MATCH 40 https://news.iu.edu/live/news/24150-irish-poet-paul-muldoon-to-present-first-patten
+FACECHECK_MATCH 40 https://www.angelnews.co.uk/blog/food-drink/wine-platform-winefi-partners-with-timeless-investments/
+FACECHECK_MATCH 40 https://georgecountymssheriff.com/sex_offender_view.php?id=91
+FACECHECK_MATCH 40 https://ynetnews.com/articles/0,7340,L-5112746,00.html
+FACECHECK_MATCH 40 https://news.wjct.org/2024-09-23/riding-the-ebb-and-flow-of-dance-music-jamie-xx-found-his-place-again
+FACECHECK_MATCH 40 https://ko.bitcoinethereumnews.com/bitcoin/charles-hoskinson-says-bitcoin-should-adopt-cardanos-ofelimous-protocol-to-survive/
+FACECHECK_MATCH 40 https://www.topnews.ru/news_id_1105862.html
+FACECHECK_MATCH 40 https://lifestyle.znews.vn/3-chang-chris-cua-marvel-ve-dep-soai-ca-cung-su-nghiep-toa-sang-post838715.html
+FACECHECK_MATCH 40 https://sportingnews.com/ca/indian-super-league/news/mumbai-city-fc-jorge-costa-style-football-three-points/1eb4vkbb2jagf1w9zl30emg1d8
+FACECHECK_MATCH 40 https://rockwalltx.mugshots.zone/rickard-gayla-mugshot-02-19-2024/
+FACECHECK_MATCH 40 https://twitter.com/dr_adnanali
+FACECHECK_MATCH 40 https://spynews.ro/monden/showbiz-intern/karmen-minune-si-bogdan-caplescu-au-divortat-oficial-astazi-dovada-ca-siau-spus-adio-342328.html
+FACECHECK_MATCH 40 https://uk.news.yahoo.com/scammed-10k-catfish-conman-posing-124434024.html
+FACECHECK_MATCH 40 https://hubnews.eu/france/people/kristofer-noubliez-pas-les-paroles-en-couple-apres-avoir-drague-une-spectatrice-il-donne-des-nouvelles/
+FACECHECK_MATCH 40 https://twitter.com/Mreras
+FACECHECK_MATCH 40 https://cnews.fr/france/2024-11-28/abrogation-de-la-reforme-des-retraites-notion-de-consentement-remuneration
+FACECHECK_MATCH 40 https://wfxb.com/2020/06/22/mugshots-june-19th-21st-2020/gall-christopher-scott-public-disorderly/
+FACECHECK_MATCH 40 https://twitter.com/jsonc_

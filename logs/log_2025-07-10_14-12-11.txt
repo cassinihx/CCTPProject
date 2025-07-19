@@ -1,0 +1,103 @@
+==== run 2025-07-10_14-12-11 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+No cookie popup detected. Continuing...
+Searching for the 'Upload Photos' button...
+'Upload Photos' button not found.
+[3] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 98
+FACECHECK_MATCH 64 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 61 https://iowasexoffender.gov/registrant/24678/?stateid=439.default
+FACECHECK_MATCH 60 https://buzzfeednews.com/article/coralewis/missing-uber-driver-found
+FACECHECK_MATCH 60 https://instagram.com/leolsu85
+FACECHECK_MATCH 60 https://twitter.com/CoachT_Johnson
+FACECHECK_MATCH 59 https://thesun.co.uk/sport/21427608/man-utd-qatar-bid-confirmed-glazers/
+FACECHECK_MATCH 59 https://thesun.co.uk/news/11640007/sir-jim-ratcliffe-furlough-hotel-staff/
+FACECHECK_MATCH 59 https://twitter.com/AaronCharlie
+FACECHECK_MATCH 58 https://www.sienanews.it/magazine/focus/donofrio-sel-noi-parliamo-di-temi-i-tatticismi-interni-al-pd-fanno-male-a-tutta-la-citta/
+FACECHECK_MATCH 58 https://sienanews.it/magazine/focus/lintervento-del-candidato-di-sel-alle-primarie-a-sindaco-pasquale-donofrio/
+FACECHECK_MATCH 58 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=11%2F02%2F2020+at+05%3A30+pm&type=advanced
+FACECHECK_MATCH 58 https://www.antaranews.com/berita/3970764/ratcliffe-mulai-jauhkan-mu-dari-iklim-toksik-warisan-keluarga-glazer?page=all
+FACECHECK_MATCH 58 https://arabnews.pk/node/1725866/world
+FACECHECK_MATCH 58 https://twitter.com/KingOfLeawood
+FACECHECK_MATCH 58 https://thesun.co.uk/tvandshowbiz/11694313/normal-people-paul-mescal-shirtless-chain/
+FACECHECK_MATCH 57 https://malaysia.news.yahoo.com/lionsgate-undergoes-layoffs-alternative-tv-215747790.html
+FACECHECK_MATCH 57 https://tvonenews.com/bola/liga-inggris/205607-bocor-segini-anggaran-belanja-mu-untuk-bursa-transfer-musim-panas
+FACECHECK_MATCH 57 https://ladunliadinews.com/british-billionaire-ratcliffe-challenges-qatar-sheikh-in-race-to-buy-man-utd/
+FACECHECK_MATCH 57 https://manutdnews.com/sir-jim-ratcliffe-set-to-table-a-bid-to-take-over-manchester-united/
+FACECHECK_MATCH 57 https://www.manchestereveningnews.co.uk/sport/football/football-news/man-united-ratcliffe-champions-league-27916054
+FACECHECK_MATCH 57 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 57 https://fortbendtx.mugshots.zone/henson-robert-anthony-mugshot-01-18-2023/
+FACECHECK_MATCH 57 https://twitter.com/Worldliberation
+FACECHECK_MATCH 57 https://twitter.com/drkamalkantsahu
+FACECHECK_MATCH 56 https://thenews.com.pk/print/1234677-rulers-toying-with-constitution-prolonging-cases-shibli
+FACECHECK_MATCH 56 https://thenews.com.pk/print/1271317-talks-deadline-may-be-extended-if-headway-made-shibli
+FACECHECK_MATCH 56 https://iowasexoffender.gov/registrant/24678/ANDREW-DICK-IOWA/?changed=08%2F11%2F2023+at+06%3A00+pm&type=advanced
+FACECHECK_MATCH 56 https://thesun.co.uk/sport/21430119/glazers-man-utd-tax-free/
+FACECHECK_MATCH 56 https://manchesterunitedfcnews.co.uk/manchester-united-news/zinedine-zidane-sends-a-hint-that-excites-man-united-and-sir-jim-ratcliffe-20240228-9463.html
+FACECHECK_MATCH 56 https://www.dailynews.com/2018/02/17/la-police-seek-help-finding-missing-ride-share-driver/
+FACECHECK_MATCH 56 https://twitter.com/darkmaiming
+FACECHECK_MATCH 56 https://timesnownews.com/entertainment/celebs/hollywood/chris-evans-shirtless-pics-that-are-absolute-thirst-trap-photo-gallery-103845856
+FACECHECK_MATCH 56 https://www.instagram.com/oltsengripshi/p/DIUMChdtLKm/
+FACECHECK_MATCH 56 https://dunyanews.tv/en/World/830168-hezbollahs-growing-drone-power
+FACECHECK_MATCH 56 https://thoroughbreddailynews.com/the-piper-rose-story-one-of-aftercare-and-regulatory-deficiencies-in-arizona/
+FACECHECK_MATCH 56 https://manchestereveningnews.co.uk/sport/football/football-news/sir-jim-ratcliffe-breaks-silence-30073937
+FACECHECK_MATCH 56 https://instagram.com/evanstoddard23
+FACECHECK_MATCH 56 https://tvmnews.mt/en/news/howard-keith-debono-mahtur-l-ewwel-membru-tal-gurija-x-factor-malta/
+FACECHECK_MATCH 56 https://twitter.com/CoachRamsay1
+FACECHECK_MATCH 55 https://twitter.com/Bevils
+FACECHECK_MATCH 55 https://news.nestia.com/detail_share/4929615?media_type=1
+FACECHECK_MATCH 55 https://ca.news.yahoo.com/roseanne-producer-eric-gilliland-dies-140648983.html
+FACECHECK_MATCH 55 https://twitter.com/KingTurck
+FACECHECK_MATCH 54 https://www.sienanews.it/magazine/focus/donofrio-lingerenza-politica-e-linadeguatezza-dei-vertici-sono-stati-i-problemi-di-banca-mps/
+FACECHECK_MATCH 54 https://sienanews.it/magazine/focus/video-le-parole-di-pasquale-donofrio-sel-al-consiglio-comunale-di-siena/
+FACECHECK_MATCH 54 https://health.usnews.com/doctors/david-riley-1836624
+FACECHECK_MATCH 54 https://health.usnews.com/doctors/john-harris-3118747
+FACECHECK_MATCH 54 https://aspendailynews.com/opinion/parrott-creating-space-for-giants-at-home-and-abroad/article_65e1d606-2c5b-11ee-af4e-3fee160ac6d0.html
+FACECHECK_MATCH 54 https://aspendailynews.com/opinion/parrott-how-do-you-stop/article_09c4fcfc-4357-11ec-840c-73a562c476d5.html
+FACECHECK_MATCH 54 https://aspendailynews.com/opinion/parrott-parts-unknown-port-antonio-jamaica/article_531cfa70-8ad4-11ec-9a1d-4776e222281a.html
+FACECHECK_MATCH 54 https://aspendailynews.com/opinion/parrott-tzedakah-ajc-and-the-aspen-chapel-1989-2022/article_5f71ee6a-abd7-11ec-9183-f7e22d40fa44.html
+FACECHECK_MATCH 54 https://inews.co.uk/sport/football/man-united-takeover-sir-jim-ratcliffe-announcement-potential-owners-2092877
+FACECHECK_MATCH 54 https://strettynews.com/2023/04/03/manchester-united-bidders-committed-regardless-of-ucl-qualification/
+FACECHECK_MATCH 54 https://batamnews.co.id/cari-orang-terkaya
+FACECHECK_MATCH 54 https://twitter.com/mehmetarifdoan3
+FACECHECK_MATCH 54 https://wfxb.com/2020/06/22/mugshots-june-19th-21st-2020/gall-christopher-scott-public-disorderly/
+FACECHECK_MATCH 54 https://twitter.com/kayteedahling
+FACECHECK_MATCH 54 https://thesun.ie/tvandshowbiz/television/5604235/normal-people-paul-mescal-star-short-film-first-project/
+FACECHECK_MATCH 54 https://thesun.co.uk/sport/18460825/chelsea-takeover-jim-ratcliffe-todd-boehly/
+FACECHECK_MATCH 54 https://uk.news.yahoo.com/uefas-rules-man-united-transfer-113904005.html
+FACECHECK_MATCH 54 https://twitter.com/Emil_ssb
+FACECHECK_MATCH 54 https://breakingtravelnews.com/videos/video/jason-atherton-chef-and-restaurateur/
+FACECHECK_MATCH 54 https://www.larionews.com/lario/questura-cambio-al-vertice-ottavio-aragona-sostituisce-dagostino
+FACECHECK_MATCH 54 https://news.emory.edu/stories/2024/07/hs_max_cooper_17_07_2024/story.html
+FACECHECK_MATCH 54 https://stabroeknews.com/2022/05/26/
+FACECHECK_MATCH 54 https://euronews.com/2019/11/26/daphne-caruana-galizia-murder-middleman-suspect-given-pardon
+FACECHECK_MATCH 54 https://pinecountynews.com/communities/pinecity/early-morning-burglary-at-pine-city-home/article_1235353e-52ff-11ec-98db-7f3227b44204.html
+FACECHECK_MATCH 54 https://twitter.com/VacekHannah
+FACECHECK_MATCH 54 https://thenews.com.pk/print/1237877-plea-for-shibli-faraz-s-transit-bail-withdrawn
+FACECHECK_MATCH 53 https://thesun.co.uk/sport/27736879/man-utd-ratcliffe-hunting-lewis-hamilton-replacement-mercedes/
+FACECHECK_MATCH 53 https://thesun.co.uk/news/28013822/man-utd-jim-ratcliffe-slams-tories-failing-control-immigration/
+FACECHECK_MATCH 53 https://ca.news.yahoo.com/lionsgate-undergoes-layoffs-alternative-tv-215747790.html
+FACECHECK_MATCH 53 https://news.paddypower.com/football-news/2022/11/28/jim-ratcliffe-old-trafford-man-united-takeover-rumours/
+FACECHECK_MATCH 53 https://manchestereveningnews.co.uk/sport/football/transfer-news/manchester-united-icon-fires-clear-29331124

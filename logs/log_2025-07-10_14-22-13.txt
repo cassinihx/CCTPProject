@@ -1,0 +1,96 @@
+==== run 2025-07-10_14-22-13 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
+[2] main.py …
+Image found: C:\Users\Stephen\OneDrive - UWE Bristol\YEAR 3\CCTP\Prototype\Pimeyes-scraper\Source_Images\Webcam_Capture.jpg
+Waiting for the page to load...
+Checking for cookie popup...
+Cookies accepted!
+Searching for the 'Upload Photos' button...
+'Upload Photos' button not found.
+[3] facecheck_search.py …
+TESTING MODE ACTIVATED
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 0
+FACECHECK_PROGRESS 87
+FACECHECK_MATCH 51 https://health.usnews.com/doctors/vladimir-chachanidze-409111
+FACECHECK_MATCH 48 https://iglobenews.org/contributor/mandl/
+FACECHECK_MATCH 48 https://bringmethenews.com/minnesota-news/convicted-child-molester-sentenced-for-failing-to-register-as-sex-offender-in-minnesota
+FACECHECK_MATCH 48 https://bringmethenews.com/minnesota-news/bus-driver-pleads-guilty-to-driving-drunk-with-35-ymca-campers-on-board
+FACECHECK_MATCH 48 https://www.rcinews.it/2019/05/30/mirko-moretti-comparato-nello/
+FACECHECK_MATCH 48 https://industrialnews.co.uk/flower-power-solar-powered-roboshot-sets-bloom-in-box-on-road-to-net-zero-engineering-roboshot-s150ia/
+FACECHECK_MATCH 48 https://www.heraldsun.com.au/news/tasmania/end-of-an-era-tasmanias-police-commissioner-wraps-up-after-42-years-in-the-force/news-story/a81fd75c62f5a36dc56f54788f27fe8c
+FACECHECK_MATCH 48 https://instagram.com/gretchryan71
+FACECHECK_MATCH 48 https://twitter.com/timhatton
+FACECHECK_MATCH 48 https://www.rainews.it/tgr/toscana/video/2024/04/morte-di-mattia-giani-indagini-per-omicidio-colposo-798dd4dc-ff5e-4661-b54c-b1acb9cda056.html
+FACECHECK_MATCH 48 https://browardfl.mugshots.zone/price-isaac-r-mugshot-10-28-2022/
+FACECHECK_MATCH 48 https://piasecznonews.pl/12-poslow-z-naszego-okregu/
+FACECHECK_MATCH 48 https://newrivervalleyjailva.mugshots.zone/nelson-jason-neil-mugshot-07-17-2023/
+FACECHECK_MATCH 48 https://health.usnews.com/doctors/theron-andrus-3234973
+FACECHECK_MATCH 48 https://twitter.com/MooreLab
+FACECHECK_MATCH 48 https://www.senzacolonnenews.it/citta/item/lotorino-barese-quaranta-eletto-presidente-della-societa-italiana-di-audiologia.html
+FACECHECK_MATCH 48 https://gazette-news.co.uk/news/19695252.teacher-stephen-chamberlain-talks-role-music-life/
+FACECHECK_MATCH 48 https://51news.it/cultura/801-lumezzane-e-rezzato-e-musica-da-bere
+FACECHECK_MATCH 47 https://es.bitcoinethereumnews.com/tech/cardano-founder-explains-his-position-on-ledgers-controversial-upgrade/
+FACECHECK_MATCH 47 https://twitter.com/will_henley
+FACECHECK_MATCH 46 https://toronto.citynews.ca/2022/03/17/explainer-could-ukrainian-neutrality-help-end-russia-war/
+FACECHECK_MATCH 46 https://balkangreenenergynews.com/south-eastern-europe-has-a-power-problem-cesec-can-help-solve-it/
+FACECHECK_MATCH 46 https://balkangreenenergynews.com/maja-turkovic-leader-of-energy-transition/
+FACECHECK_MATCH 46 https://balkangreenenergynews.com/category/feature-articles-by-energy-climate-and-environmental-experts/
+FACECHECK_MATCH 46 https://twitter.com/b_mandl
+FACECHECK_MATCH 46 https://twitter.com/cldeboy
+FACECHECK_MATCH 46 https://instagram.com/leolsu85
+FACECHECK_MATCH 46 https://netnews.com.mt/2017/04/20/kemm-ghaddew-flus-minghand-tifla-ta-aliyev/
+FACECHECK_MATCH 46 https://calhounal.mugshots.zone/proctor-jacob-allan-mugshot-05-26-2024/
+FACECHECK_MATCH 46 https://subynews.blogspot.com/2012_12_08_archive.html
+FACECHECK_MATCH 46 https://ko.bitcoinethereumnews.com/bitcoin/charles-hoskinson-says-bitcoin-should-adopt-cardanos-ofelimous-protocol-to-survive/
+FACECHECK_MATCH 46 https://positanonews.it/2014/12/dopo-la-condanna-di-alberto-stasi-a-sedici-anni-per-lomicidio-di-chiara-poggi-tra-un-anno-si-torna-in-cassazione/149129/
+FACECHECK_MATCH 46 https://heraldcourier.com/news/local/tazewell-county-music-teacher-arrested-on-child-porn-charges/article_ffeceaa8-7dc3-5f7d-9818-827de4e65932.html
+FACECHECK_MATCH 46 https://instagram.com/aislingbyrne4
+FACECHECK_MATCH 46 https://online-news.it/completamento-trasversale-orte-civitavecchia-rotelli-sabatini-e-paterna-fdi-oggi-una-giornata-storica/
+FACECHECK_MATCH 46 https://twitter.com/gendereviI
+FACECHECK_MATCH 46 https://true-news.it/politics/maurizio-del-conte-afol-metropolitana-numeri
+FACECHECK_MATCH 46 https://twitter.com/gpmum
+FACECHECK_MATCH 46 https://randalltx.mugshots.zone/mayfield-rita-gaye-mugshot-09-01-2021/
+FACECHECK_MATCH 45 https://thehockeynews.com/nhl/new-york-islanders/latest-news/patrick-roy-tony-deangelo-new-york-islanders-carolina-hurricanes-2024-stanley-cup-playoffs
+FACECHECK_MATCH 45 https://thehockeynews.com/nhl/new-york-islanders/latest-news/tampa-bay-lightning-new-york-islanders-power-play-kyle-palmieri-anders-lee-nikita-kucherov
+FACECHECK_MATCH 45 https://kdhnews.com/news/world/polands-centrist-premier-tusk-is-strengthened-by-eu-election-win-but-populists-are-at-his/article_de01e32b-187f-5e14-87cb-295bd7e76e8f.html
+FACECHECK_MATCH 45 https://www.bssnews.net/news-flash/49896
+FACECHECK_MATCH 45 https://twitter.com/JHugoEnterprise
+FACECHECK_MATCH 45 https://lynchburgva.mugshots.zone/langley-michael-bonn-mugshot-03-31-2021/
+FACECHECK_MATCH 45 https://www.sportingnews.com/us/champions-league/news/blatant-aggressive-dirty-elbow-ramos-escapes-red-card-for-foul-on-hernandez/1c5meho75fabz1mhvh8912wqow
+FACECHECK_MATCH 45 https://quora.com/How-does-one-deal-with-an-online-scammer-who-is-threatening-you-for-your-nudes
+FACECHECK_MATCH 45 https://bernama.com/en/world/news.php?id=2358290
+FACECHECK_MATCH 45 https://fr.news.yahoo.com/commence-attend-l%C3%A9pisode-1027-vendredi-170000451.html
+FACECHECK_MATCH 45 https://www.irishnews.com/lifestyle/health/2023/01/05/news/what_are_cluster_headaches_and_how_can_you_treat_them_-2956208/
+FACECHECK_MATCH 45 https://basketnews.com/news-186962-darvin-ham-hints-about-lebron-james-comeback-during-regular-season.html
+FACECHECK_MATCH 45 https://twitter.com/BobBraunsLedger
+FACECHECK_MATCH 45 https://offenderradar.com/offender-details/alexander-p-delorenzo-of-west-virginia-1159176
+FACECHECK_MATCH 45 https://charlestonsc.mugshots.zone/brinson-austin-blaise-mugshot-12-31-2022/
+FACECHECK_MATCH 45 https://twitter.com/AttractionKings
+FACECHECK_MATCH 45 https://instagram.com/plantbased.lv
+FACECHECK_MATCH 45 https://twitter.com/bocowgill
+FACECHECK_MATCH 45 https://news.michelin.co.uk/articles/new-michelin-spraybib-cfo-vf710-60r46-the-first-michelin-flotation-tyre-for-self-propelled-sprayers
+FACECHECK_MATCH 45 https://wrganews.com/2025/01/30/lindale-and-calhoun-men-among-three-arrested-in-multi-store-shoplifting-spree/
+FACECHECK_MATCH 45 https://brazoriatx.mugshots.zone/geddes-bryan-mugshot-08-24-2023/
+FACECHECK_MATCH 45 https://twitter.com/amfamjena
+FACECHECK_MATCH 45 https://twitter.com/AlexPotcovaru
+FACECHECK_MATCH 45 https://cbnews.fr/conseil/image-benoit-fleurian-ogilvy-paris-nudge-marketing-plonge-nos-biais-psychologiques-50546
+FACECHECK_MATCH 45 https://bc.ctvnews.ca/mobile/surrey-massage-therapist-banned-from-treating-female-patients-after-sexual-misconduct-complaint-1.6296434?cache=?contactForm=true
+FACECHECK_MATCH 45 https://www.escortsexe.net/New-diana-nouvelle-a-nice-ad121683.html
+FACECHECK_MATCH 45 https://thesun.co.uk/motors/23923204/mechanic-ev-cost-environment/
+FACECHECK_MATCH 45 https://brazostx.mugshots.zone/cristie-cecelia-eleanor-mugshot-10-20-2022/
+FACECHECK_MATCH 45 https://usnews.com/doctors/cataract-surgery-iol/georgia
+FACECHECK_MATCH 45 https://fox21news.com/news/crime/suspect-wanted-for-armed-kidnapping-captured-in-palmer-park/
+FACECHECK_MATCH 45 https://www.ntnews.com.au/news/communitys-horror-after-school-captain-charged-with-murder/news-story/e6013f3d1025a08ff885468eb80bdcee
+FACECHECK_MATCH 45 https://dallasnews.com/news/crime/2016/08/23/former-grand-prairie-isd-chief-accused-of-using-armored-trucks-to-steal-600000-from-district/
+FACECHECK_MATCH 45 https://cruisetradenews.com/royal-appoints-aaron-langford-as-uk-sales-lead-and-promotes-nicki-lewis/
+FACECHECK_MATCH 44 https://health.usnews.com/best-hospitals/area/oh/three-gables-surgery-center-6410207

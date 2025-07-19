@@ -100,6 +100,34 @@ def main():
 
     print(f"\nLog saved to {LOG_FILE}")
 
+    def closeEvent(self, event):
+    # 1. stop animation
+        if self.timer.isActive():
+            self.timer.stop()
+
+    # 2. release Pixmap → unlock file
+        self.image_label.clear()
+        QApplication.processEvents()          # force UI repaint
+
+    # 3. terminate subprocess group
+    try:
+        if hasattr(self, "thread") and self.thread.isRunning():
+            self.thread.stop()
+            self.thread.wait(5000)        # up to 5 s
+    except Exception:
+        pass
+
+    # 4. delete captured JPG (retry a couple of times)
+    img = os.path.abspath(os.path.join("Source_Images", "Webcam_Capture.jpg"))
+    for _ in range(5):
+        try:
+            if os.path.exists(img):
+                os.remove(img)
+            break
+        except PermissionError:
+            import time; time.sleep(0.5)
+
+    event.accept()
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,5 @@
+==== run 2025-07-11_13-08-07 ====
+[1] takePicture.py …
+Capturing from webcam 0 ...
+Saved Source_Images\Webcam_Capture.jpg
+SNAP_COMPLETE
